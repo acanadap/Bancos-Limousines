@@ -1,0 +1,4898 @@
+[
+  {
+    "company": "AMC BUS",
+    "cuenta_suffix": "1587",
+    "nombre_cuenta": "OPERATING NEW",
+    "rol": "pagadora",
+    "periodo": "2026-02",
+    "resumen": {
+      "saldo_inicial": 0.0,
+      "saldo_final": 0.0,
+      "total_depositos": 1491291.11,
+      "total_retiros": 1197547.92,
+      "total_cheques": 232959.8,
+      "total_list_posted_items": 60783.39
+    },
+    "depositos": [
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0004512759Xf",
+        "monto": 30958.55
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0005439699Xf",
+        "monto": 77066.93
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0006326999Xf",
+        "monto": 4340.24
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0007294969Xf",
+        "monto": 11911.83
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0008217529Xf",
+        "monto": 58272.35
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0000197849Xf",
+        "monto": 47190.26
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0001061279Xf",
+        "monto": 14376.53
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0002022239Xf * Annual Percentage Yield Earned - the percentage rate earned if bal",
+        "monto": 414.6
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0002893649Xf",
+        "monto": 2589.56
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0003880239Xf",
+        "monto": 29935.12
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0004947639Xf",
+        "monto": 82229.96
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0005871359Xf",
+        "monto": 35749.6
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0006815929Xf",
+        "monto": 2129.99
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0007809099Xf",
+        "monto": 514846.25
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0008644789Xf",
+        "monto": 121903.42
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0000646409Xf",
+        "monto": 149012.72
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0001588689Xf",
+        "monto": 80335.25
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "otro_ingreso",
+        "cuenta_origen_suffix": null,
+        "oficina": null,
+        "descripcion": "Book Transfer Credit B/O: Otay-Tijuana Venture LLC San Diego CA 92154-7410 US Trn: 1515900057Vb YOUR REF: ATS OF 26/02/26",
+        "monto": 82206.2
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0003475669Xf",
+        "monto": 145821.75
+      }
+    ],
+    "retiros": [
+      {
+        "fecha": "02/02",
+        "descripcion": "Orig CO Name:Denvergov.Org Orig ID:2836715185 Desc Date:260203 CO Entry Descr:Denver Taxsec:Web Trace#:021000027092097 Eed:260202 Ind ID:337796096 Ind Name:Limousines Trn: 0307092097Tc",
+        "monto": 156.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Tramites gubernamentales"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Orig CO Name:Alarm Billing Sv Orig ID:1364073289 Desc Date:260202 CO Entry Descr:8476294060Sec:Web Trace#:071001507092099 Eed:260202 Ind ID:Pw1157 Ind Name:Recur Trn: 0307092099Tc",
+        "monto": 37.88,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguridad (alarma)"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Orig CO Name:Westridgecommerc Orig ID:9000327993 Desc Date:020226 CO Entry Descr:Sigonfile Sec:CCD Trace#:111924689274584 Eed:260202 Ind ID:Ztzc5L Ind Name:Amc Bus Inc., Los Limo 800-866-1124 Trn: 033",
+        "monto": 2042.74,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios profesionales / SaaS"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Orig CO Name:T-Mobile Orig ID:0000450304 Desc Date:260131 CO Entry Descr:Pcs Svc Sec:Web Trace#:021000029274586 Eed:260202 Ind ID:0826080 Ind Name: Amc Bus Inc 800-937-8997 Trn: 0339274586Tc",
+        "monto": 1584.14,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Orig CO Name:Prog County Mut Orig ID:9409348179 Desc Date:260202 CO Entry Descr:Ins Prem Sec:PPD Trace#:021000026846680 Eed:260202 Ind ID:980587052 Amc B Ind Name:Amc Bus Inc Branch43Debit ACH Trn: 03",
+        "monto": 1444.11,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguros"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000022790099 Eed:260202 Ind ID:CA0A696Fda4Bbf9 Ind Name:Antonio Mejia Cuellar Trn: 0332790099Tc",
+        "monto": 1700.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000025150105 Eed:260202 Ind ID:CA0D0101Af1E68E Ind Name:Antonio Mejia Cuellar Trn: 0335150105Tc Page 2",
+        "monto": 1550.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/03",
+        "descripcion": "Orig CO Name:Tax_Rev_Wdt_Ecks Orig ID:1856000511 Desc Date:260202 CO Entry Descr:Trd Pmnt Sec:CCD Trace#:091000017542182 Eed:260203 Ind ID:554597760 Ind Name:Amc Bus Inc Trn: 0347542182Tc",
+        "monto": 12849.87,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Impuestos / regulatorio"
+      },
+      {
+        "fecha": "02/03",
+        "descripcion": "Orig CO Name:CO Dept Revenue Orig ID:D846000537 Desc Date:260130 CO Entry Descr:Taxpaymentsec:CCD Trace#:091000016602642 Eed:260203 Ind ID:1431108736 Ind Name:Amc Bus, Inc. Trn: 0336602642Tc",
+        "monto": 21.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/03",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/072180013316352730 Comercializadora Y Negocios Vex Sa Ref: T",
+        "monto": 40379.63,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/03",
+        "descripcion": "Orig CO Name:Wex Inc Orig ID:1870618050 Desc Date:SD0951 CO Entry Descr:Efsllc Sec:CCD Trace#:242071754073180 Eed:260203 Ind ID:5577702300683 Ind Name:Amc Bus Inc . Trn: 0344073180Tc",
+        "monto": 10176.43,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wex Inc (tarjetas combustible)"
+      },
+      {
+        "fecha": "02/03",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000020253763 Eed:260203 Ind ID:CA0Ec60Ec42Ee72 Ind Name:Antonio Mejia Cuellar Trn: 0340253763Tc",
+        "monto": 2600.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/04",
+        "descripcion": "Orig CO Name:Global Alternati Orig ID:3205244215 Desc Date:260204 CO Entry Descr:Cash Con Sec:CCD Trace#:071000280969573 Eed:260204 Ind ID: Ind Name:Amc Bus, Inc Trn: 0340969573Tc",
+        "monto": 811.88,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Global Alternati (proveedor)"
+      },
+      {
+        "fecha": "02/04",
+        "descripcion": "Orig CO Name:El Paso Electric Orig ID:0000415575 Desc Date: CO Entry Descr:B2P*El Passec:Web Trace#:096016932651075 Eed:260204 Ind ID:103255807 Ind Name:Amc Bus Inc Limousines 8005921634 Trn: 03526510",
+        "monto": 738.45,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/04",
+        "descripcion": "Orig CO Name:El Paso Electric Orig ID:0000415575 Desc Date: CO Entry Descr:B2P*El Passec:Web Trace#:096016932651071 Eed:260204 Ind ID:103255678 Ind Name:Amc Bus Inc Limousines 8005921634 Trn: 03526510",
+        "monto": 284.04,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/04",
+        "descripcion": "Orig CO Name:El Paso Electric Orig ID:0000415575 Desc Date: CO Entry Descr:B2P*El Passec:Web Trace#:096016932651073 Eed:260204 Ind ID:103255947 Ind Name:Amc Bus Inc Limousines 8005921634 Trn: 03526510",
+        "monto": 203.27,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/04",
+        "descripcion": "Orig CO Name:El Paso Electric Orig ID:0000415575 Desc Date: CO Entry Descr:B2P*El Passec:Web Trace#:096016932651072 Eed:260204 Ind ID:103259209 Ind Name:Amc Bus Inc 8005921634 Trn: 0352651072Tc",
+        "monto": 69.81,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/04",
+        "descripcion": "Orig CO Name:El Paso Electric Orig ID:0000415575 Desc Date: CO Entry Descr:B2P*El Passec:Web Trace#:096016932651074 Eed:260204 Ind ID:103257372 Ind Name:Amc Bus Inc Limousines 8005921634 Trn: 03526510",
+        "monto": 38.62,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/04",
+        "descripcion": "Orig CO Name:El Paso Electric Orig ID:0000415575 Desc Date: CO Entry Descr:B2P*El Passec:Web Trace#:096016932651076 Eed:260204 Ind ID:103257651 Ind Name:Amc Bus Inc Limousines 8005921634 Trn: 03526510",
+        "monto": 33.17,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/04",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000026915670 Eed:260204 Ind ID:CA0D88990D213Ec Ind Name:Antonio Mejia Cuellar Trn: 0356915670Tc",
+        "monto": 750.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/05",
+        "descripcion": "Orig CO Name:Voya Nat Trst182 Orig ID:8602739614 Desc Date:260204 CO Entry Descr:Spnsr P/R Sec:CCD Trace#:021000028423383 Eed:260205 Ind ID:875350 0001 Ind Name:El Paso - LA Limo Expr Trn: 0358423383T",
+        "monto": 1186.71,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/05",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000020069885 Eed:260205 Ind ID:CA0921Dec71A7C9 Ind Name:Antonio Mejia Cuellar Trn: 0360069885Tc",
+        "monto": 3100.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/06",
+        "descripcion": "Orig CO Name:Global Alternati Orig ID:3205244215 Desc Date:260206 CO Entry Descr:Cash Con Sec:CCD Trace#:071000281000625 Eed:260206 Ind ID: Ind Name:Amc Bus, Inc Invoice 73102 Trn: 0361000625Tc",
+        "monto": 21957.19,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Global Alternati (proveedor)"
+      },
+      {
+        "fecha": "02/06",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/012028001145981215 Autotrans Mexsdelcentmedoesteyelpac Ref: ",
+        "monto": 26729.55,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/06",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/012028001145981215 Autotrans Mexsdelcentmedoesteyelpac Ref: ",
+        "monto": 1500.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/06",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000029375788 Eed:260206 Ind ID:CA0161Fd69Ae8B7 Ind Name:Antonio Mejia Cuellar Trn: 0379375788Tc",
+        "monto": 600.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/09",
+        "descripcion": "Orig CO Name:Aaa Oil Inc Orig ID:1680593652 Desc Date:260209 CO Entry Descr:CA Fuels Sec:PPD Trace#:071000288154484 Eed:260209 Ind ID:2734 (501803) Ind Name:Amc Bus 1587 Trn: 0378154484Tc",
+        "monto": 1811.73,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/09",
+        "descripcion": "Orig CO Name:Global Alternati Orig ID:3205244215 Desc Date:260209 CO Entry Descr:Cash Con Sec:CCD Trace#:071000288154486 Eed:260209 Ind ID: Ind Name:Amc Bus, Inc Invoice 73167 Trn: 0378154486Tc",
+        "monto": 649.5,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Global Alternati (proveedor)"
+      },
+      {
+        "fecha": "02/09",
+        "descripcion": "Orig CO Name:Senergy Petroliu Orig ID:2860556151 Desc Date:260206 CO Entry Descr:Crediddebtsec:CCD Trace#:091000018154488 Eed:260209 Ind ID: Ind Name:Amc Bus Inc Trn: 0378154488Tc",
+        "monto": 305.3,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Senergy Petroliu (combustible/credito)"
+      },
+      {
+        "fecha": "02/09",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000023162498 Eed:260209 Ind ID:CA05C1E40Efcec0 Ind Name:Antonio Mejia Cuellar Trn: 0403162498Tc",
+        "monto": 1850.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/09",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/072180013316352730 Comercializadora Y Negocios Vex Sa Ref: T",
+        "monto": 36033.93,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/09",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/058180000007932690 Global Bestlogistics Systems Sadecv Ref: ",
+        "monto": 842.54,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/10",
+        "descripcion": "Orig CO Name:First Insurance Orig ID:2363437365 Desc Date: CO Entry Descr:Insurance Sec:CCD Trace#:071925331673090 Eed:260210 Ind ID:900-105833743 Ind Name:Amc Bus, Inc Pbs ACH Debit Trn: 0401673090Tc",
+        "monto": 487.21,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguros"
+      },
+      {
+        "fecha": "02/10",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000021110985 Eed:260210 Ind ID:CA0BB3460E14331 Ind Name:Antonio Mejia Cuellar Trn: 0411110985Tc Page 4",
+        "monto": 4300.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/10",
+        "descripcion": "Orig CO Name:Wex Inc Orig ID:1870618050 Desc Date:SD0942 CO Entry Descr:Efsllc Sec:CCD Trace#:242071757221619 Eed:260210 Ind ID:5577702300683 Ind Name:Amc Bus Inc . Trn: 0417221619Tc",
+        "monto": 7868.84,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wex Inc (tarjetas combustible)"
+      },
+      {
+        "fecha": "02/11",
+        "descripcion": "Orig CO Name:Fv Business Solu Orig ID:1330992138 Desc Date: CO Entry Descr:Monthly Sec:PPD Trace#:091000011735486 Eed:260211 Ind ID:Amc Ind Name:Amc Bus Inc Trn: 0411735486Tc",
+        "monto": 375.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios profesionales / SaaS"
+      },
+      {
+        "fecha": "02/12",
+        "descripcion": "Orig CO Name:Voya Nat Trst182 Orig ID:8602739614 Desc Date:260211 CO Entry Descr:Spnsr P/R Sec:CCD Trace#:021000021582923 Eed:260212 Ind ID:875350 0001 Ind Name:El Paso - LA Limo Expr Trn: 0421582923T",
+        "monto": 1139.56,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Beneficios / plan de retiro (Voya)"
+      },
+      {
+        "fecha": "02/12",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000022319520 Eed:260212 Ind ID:CA0F6487C91Df1A Ind Name:Antonio Mejia Cuellar Trn: 0432319520Tc",
+        "monto": 1450.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/13",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/012028001145981215 Autotrans Mexsdelcentmedoesteyelpac Ref: ",
+        "monto": 27000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/13",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000025183482 Eed:260213 Ind ID:CA0F2450E0Dba7D Ind Name:Antonio Mejia Cuellar Trn: 0445183482Tc",
+        "monto": 1400.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Orig CO Name:Global Alternati Orig ID:3205244215 Desc Date:260217 CO Entry Descr:Cash Con Sec:CCD Trace#:071000284532220 Eed:260217 Ind ID: Ind Name:Amc Bus, Inc Invoice 73393 Trn: 0444532220Tc",
+        "monto": 21622.99,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Global Alternati (proveedor)"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:056073615102429 Eed:260217 Ind ID:CA0Aba1F496B77B Ind Name:Antonio Mejia Cuellar Trn: 0485102429Tc",
+        "monto": 2400.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Orig CO Name:Cox Comm Las Orig ID:1582406705 Desc Date:021526 CO Entry Descr:Purchase Sec:Tel Trace#:091000015102431 Eed:260217 Ind ID:Gtaeqruk32Xrjio Ind Name:Amc Bus Inc Trn: 0485102431Tc",
+        "monto": 756.84,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Orig CO Name:Aaa Oil Inc Orig ID:1680593652 Desc Date:260217 CO Entry Descr:CA Fuels Sec:PPD Trace#:071000280165694 Eed:260217 Ind ID:2734 (501803) Ind Name:Amc Bus 1587 Trn: 0480165694Tc",
+        "monto": 1372.9,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/012028001145981215 Autotrans Mexsdelcentmedoesteyelpac Ref: ",
+        "monto": 27728.02,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Orig CO Name:Wex Inc Orig ID:1870618050 Desc Date:SD1100 CO Entry Descr:Efsllc Sec:CCD Trace#:242071753024455 Eed:260217 Ind ID:5577702300683 Ind Name:Amc Bus Inc . Trn: 0483024455Tc",
+        "monto": 8184.33,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wex Inc (tarjetas combustible)"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000021591339 Eed:260217 Ind ID:CA003E5E90B2Ed9 Ind Name:Antonio Mejia Cuellar Trn: 0481591339Tc",
+        "monto": 4100.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Account Analysis Settlement Charge Page 5 of 12 January 31, 2026 through February 27, 2026 Account Number: 000000595111587 Withdrawals and Debits (continued) Ledger Description Amount Date",
+        "monto": 10560.98,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/18",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/072180013316352730 Comercializadora Y Negocios Vex Sa Ref: T",
+        "monto": 35349.6,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/18",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000020927346 Eed:260218 Ind ID:CA0182Ec85Ec704 Ind Name:Antonio Mejia Cuellar Trn: 0490927346Tc",
+        "monto": 400.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/19",
+        "descripcion": "Orig CO Name:Voya Nat Trst182 Orig ID:8602739614 Desc Date:260218 CO Entry Descr:Spnsr P/R Sec:CCD Trace#:021000023862494 Eed:260219 Ind ID:875350 0001 Ind Name:El Paso - LA Limo Expr Trn: 0493862494T",
+        "monto": 1133.38,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Beneficios / plan de retiro (Voya)"
+      },
+      {
+        "fecha": "02/19",
+        "descripcion": "Orig CO Name:ADT Security Ser Orig ID:8881323080 Desc Date: CO Entry Descr:Adtpapach Sec:Web Trace#:043301603862492 Eed:260219 Ind ID:404778434 Ind Name:Amc Bus, Inc. Trn: 0493862492Tc",
+        "monto": 96.61,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguridad"
+      },
+      {
+        "fecha": "02/19",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000023698224 Eed:260219 Ind ID:CA051009C5Be928 Ind Name:Antonio Mejia Cuellar Trn: 0503698224Tc",
+        "monto": 900.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Orig CO Name:Global Alternati Orig ID:3205244215 Desc Date:260220 CO Entry Descr:Cash Con Sec:CCD Trace#:071000283454081 Eed:260220 Ind ID: Ind Name:Amc Bus, Inc Invoice 73427 Trn: 0503454081Tc",
+        "monto": 811.88,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Global Alternati (proveedor)"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Orig CO Name:ADT Security Ser Orig ID:8881323080 Desc Date: CO Entry Descr:Adtpapach Sec:Web Trace#:043301603454084 Eed:260220 Ind ID:404779213 Ind Name:Amc Bus Inc Trn: 0503454084Tc",
+        "monto": 67.15,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguridad"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Orig CO Name:ADT Security Ser Orig ID:8881323080 Desc Date: CO Entry Descr:Adtpapach Sec:Web Trace#:043301603454083 Eed:260220 Ind ID:404779214 Ind Name:Amc Bus, Inc. Trn: 0503454083Tc",
+        "monto": 57.82,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguridad"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/012028001145981215 Autotrans Mexsdelcentmedoesteyelpac Ref: ",
+        "monto": 26915.97,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Orig CO Name:ADP Payroll Fees Orig ID:9659605001 Desc Date:260220 CO Entry Descr:ADP Fees Sec:CCD Trace#:021000025312462 Eed:260220 Ind ID:668087316380 Ind Name:713781831Amc Bus Inc 550374703 Trn: 051",
+        "monto": 1729.5,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Online International Wire Transfer A/C: Bbva Mexico Sa, Institucion DE Mexico Df Mexico 06600 Mx Ref: Loan Pmt From Amc To Geb Transfer Trn: 3551146051Es YOUR REF: ICM OF 26/02/20",
+        "monto": 281375.43,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wires internacionales Mexico"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Online International Wire Transfer A/C: Bbva Mexico Sa, Institucion DE Mexico Df Mexico 06600 Mx Ref: Ticket Sales Amc To Geb Transfer Trn: 3600376051Es YOUR REF: ICM OF 26/02/20",
+        "monto": 71553.09,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wires internacionales Mexico"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Orig CO Name:T-Mobile Orig ID:0000450304 Desc Date:260220 CO Entry Descr:Pcs Svc Sec:Web Trace#:021000025386310 Eed:260220 Ind ID:7666036 Ind Name: Amc Bus Inc 800-937-8997 Trn: 0515386310Tc",
+        "monto": 2728.31,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000020854969 Eed:260220 Ind ID:CA0275Bda1Cfbf6 Ind Name:Antonio Mejia Cuellar Trn: 0510854969Tc Page 6",
+        "monto": 2150.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/23",
+        "descripcion": "Orig CO Name:Aaa Oil Inc Orig ID:1680593652 Desc Date:260223 CO Entry Descr:CA Fuels Sec:PPD Trace#:071000289287528 Eed:260223 Ind ID:2734 (501803) Ind Name:Amc Bus 1587 Trn: 0519287528Tc",
+        "monto": 33033.86,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/23",
+        "descripcion": "Orig CO Name:ADT Security Ser Orig ID:8881323080 Desc Date: CO Entry Descr:Adtpapach Sec:PPD Trace#:043301609287526 Eed:260223 Ind ID:405428075 Ind Name:El Paso LA Limousine E Trn: 0519287526Tc",
+        "monto": 57.2,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguridad"
+      },
+      {
+        "fecha": "02/23",
+        "descripcion": "Orig CO Name:ADT Security Ser Orig ID:8881323080 Desc Date: CO Entry Descr:Adtpapach Sec:Web Trace#:043301609212432 Eed:260223 Ind ID:403215139 Ind Name:Amc Bus Inc Trn: 0549212432Tc",
+        "monto": 74.71,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguridad"
+      },
+      {
+        "fecha": "02/23",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/072180013316352730 Comercializadora Y Negocios Vex Sa Ref: T",
+        "monto": 27947.69,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/23",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000029218118 Eed:260223 Ind ID:CA0A9B93210B8D0 Ind Name:Antonio Mejia Cuellar Trn: 0549218118Tc",
+        "monto": 1900.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/23",
+        "descripcion": "Online International Wire Transfer A/C: Bbva Mexico Sa, Institucion DE Mexico Df Mexico 06600 Mx Ref: Vb01Aeb 5809 Transfer Trn: 3714336054Es YOUR REF: ICM OF 26/02/23",
+        "monto": 20788.56,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wires internacionales Mexico"
+      },
+      {
+        "fecha": "02/23",
+        "descripcion": "Online International Wire Transfer A/C: Bbva Mexico Sa, Institucion DE Mexico Df Mexico 06600 Mx Ben:/012028001146766455 Autotransportes Mexicanos Del Centr Ref: Funding For Vb01Aeb 5811 Transfer Trn:",
+        "monto": 36608.08,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wires internacionales Mexico"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Orig CO Name:Global Alternati Orig ID:3205244215 Desc Date:260224 CO Entry Descr:Cash Con Sec:CCD Trace#:071000289296921 Eed:260224 Ind ID: Ind Name:Amc Bus, Inc Trn: 0549296921Tc",
+        "monto": 22287.51,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Global Alternati (proveedor)"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Online Domestic Wire Transfer Via: Citibank Nyc/021000089 A/C: Volvo Group Mexico Sa DE Cv New York NY 10043 US Ref: Vo000740/Time/18:01 Imad: 0224Mmqfmp2M021781 Trn: 3369396055Es YOUR REF: CML OF 26/",
+        "monto": 108190.86,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Online International Wire Transfer A/C: Bbva Mexico Sa, Institucion DE Mexico Df Mexico 06600 Mx Ben:/012028001146766455 Autotransportes Mexicanos Del Centr Ref: Transfer Transfer Trn: 3608126055Es YO",
+        "monto": 2979.16,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wires internacionales Mexico"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Orig CO Name:Wex Inc Orig ID:1870618050 Desc Date:SD0953 CO Entry Descr:Efsllc Sec:CCD Trace#:051000018526825 Eed:260224 Ind ID:5577702300683 Ind Name:Amc Bus Inc . Trn: 0558526825Tc",
+        "monto": 8722.55,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wex Inc (tarjetas combustible)"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000023640991 Eed:260224 Ind ID:CA06B69B9E960E6 Ind Name:Antonio Mejia Cuellar Trn: 0553640991Tc",
+        "monto": 1450.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Orig CO Name:Spectrum Orig ID:0000358635 Desc Date:260224 CO Entry Descr:Spectrum Sec:Web Trace#:021000023640989 Eed:260224 Ind ID:8948366 Ind Name:Amc Bus Inc 855-707-7328 Trn: 0553640989Tc",
+        "monto": 229.93,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Telecomunicaciones"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Orig CO Name:Spectrum Orig ID:0000358635 Desc Date:260224 CO Entry Descr:Spectrum Sec:Web Trace#:021000023640987 Eed:260224 Ind ID:8947931 Ind Name:Amc Bus Inc 855-707-7328 Trn: 0553640987Tc Page 7 of",
+        "monto": 148.51,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Paragon Insuranc Orig ID:1201055329 Desc Date:260224 CO Entry Descr:Insurance Sec:CCD Trace#:221970442429979 Eed:260225 Ind ID:A2026Q3Mu1 Ind Name:Amc Bus Inc Trn: 0552429979Tc",
+        "monto": 6862.1,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:3540Albuquerque Orig ID:4203050521 Desc Date: CO Entry Descr:Remittancesec:CCD Trace#:053200982965199 Eed:260225 Ind ID:118923463090 Ind Name:Chase1587 Trn: 0562965199Tc",
+        "monto": 3243.7,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Westridgecommerc Orig ID:9000327993 Desc Date:022526 CO Entry Descr:Sigonfile Sec:CCD Trace#:111924682965191 Eed:260225 Ind ID:T79Nbl Ind Name:Amc Bus Inc., Los Limo 800-866-1124 Trn: 056",
+        "monto": 2042.74,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios profesionales / SaaS"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Kgpm Limited-A1L Orig ID:9000818554 Desc Date:022526 CO Entry Descr:Web Pmts Sec:Web Trace#:081503502429975 Eed:260225 Ind ID:9J8Mcf Ind Name:Amc Bus, Inc 916-972-9395 Trn: 0552429975Tc",
+        "monto": 1470.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios profesionales / SaaS"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:El Paso Water UT Orig ID:0000000160 Desc Date:260224 CO Entry Descr:Billpay Sec:Web Trace#:091000012965205 Eed:260225 Ind ID:El Paso Water U Ind Name:Amc Bus Inc Billpay Trn: 0562965205Tc",
+        "monto": 896.67,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Cox Comm Phx Orig ID:1860198371 Desc Date:022426 CO Entry Descr:Purchase Sec:Web Trace#:091000012429977 Eed:260225 Ind ID:Sfw9Jljwrruyh82 Ind Name:Amc Bus Inc Trn: 0552429977Tc",
+        "monto": 619.8,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Vertigo LLC Orig ID:X371651334 Desc Date:260224 CO Entry Descr:Insurance Sec:CCD Trace#:221970442429982 Eed:260225 Ind ID:A2026D2Cmw Ind Name:Amc Bus Inc Trn: 0552429982Tc",
+        "monto": 601.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Texas Gas Servic Orig ID:0011361754 Desc Date:260224 CO Entry Descr:Texas Gas Sec:Web Trace#:242071752965195 Eed:260225 Ind ID: Ind Name:Business Amc Bus Inc 2645206164410 Trn: 0562965195",
+        "monto": 510.46,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Vertigo LLC Orig ID:X371651334 Desc Date:260224 CO Entry Descr:Insurance Sec:CCD Trace#:221970442429981 Eed:260225 Ind ID:A2026065Jf Ind Name:Amc Bus Inc Trn: 0552429981Tc",
+        "monto": 383.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Texas Gas Servic Orig ID:0011361754 Desc Date:260224 CO Entry Descr:Texas Gas Sec:Web Trace#:242071752965197 Eed:260225 Ind ID: Ind Name:Business Amc Bus Inc 2645206164410 Trn: 0562965197",
+        "monto": 191.3,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Texas Gas Servic Orig ID:0011361754 Desc Date:260224 CO Entry Descr:Texas Gas Sec:Web Trace#:242071752965196 Eed:260225 Ind ID: Ind Name:Business Amc Bus Inc 2645206164410 Trn: 0562965196",
+        "monto": 155.18,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:El Paso Water UT Orig ID:0000000160 Desc Date:260224 CO Entry Descr:Billpay Sec:Web Trace#:091000012965203 Eed:260225 Ind ID:El Paso Water U Ind Name:Amc Bus Inc Billpay Trn: 0562965203Tc",
+        "monto": 140.4,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:El Paso Water UT Orig ID:0000000160 Desc Date:260224 CO Entry Descr:Billpay Sec:Web Trace#:091000012965204 Eed:260225 Ind ID:El Paso Water U Ind Name:Amc Bus Inc Billpay Trn: 0562965204Tc",
+        "monto": 136.89,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Att Orig ID:9864031005 Desc Date:022426 CO Entry Descr:Payment Sec:Web Trace#:031100202429973 Eed:260225 Ind ID:863961003Myw9A Ind Name:Valued Customer Trn: 0552429973Tc",
+        "monto": 122.34,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Telecomunicaciones"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Texas Gas Servic Orig ID:0011361754 Desc Date:260224 CO Entry Descr:Texas Gas Sec:Web Trace#:242071752965194 Eed:260225 Ind ID: Ind Name:Business Amc Bus Inc 2645206164410 Trn: 0562965194",
+        "monto": 118.45,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Texas Gas Servic Orig ID:0011361754 Desc Date:260224 CO Entry Descr:Texas Gas Sec:Web Trace#:242071752965193 Eed:260225 Ind ID: Ind Name:Business Amc Bus Inc 2645206164410 Trn: 0562965193",
+        "monto": 109.42,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:El Paso Water UT Orig ID:0000000160 Desc Date:260224 CO Entry Descr:Billpay Sec:Web Trace#:091000012965201 Eed:260225 Ind ID:El Paso Water U Ind Name:Amc Bus Inc Billpay Trn: 0562965201Tc",
+        "monto": 105.34,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:El Paso Water UT Orig ID:0000000160 Desc Date:260224 CO Entry Descr:Billpay Sec:Web Trace#:091000012965202 Eed:260225 Ind ID:El Paso Water U Ind Name:Amc Bus Inc Billpay Trn: 0562965202Tc",
+        "monto": 90.81,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Appfolio, Inc. F Orig ID:9001406550 Desc Date:022526 CO Entry Descr:Web Pmts Sec:Web Trace#:081503502429971 Eed:260225 Ind ID:9Xs2X5 Ind Name:Amc Bus, Inc 866-648-1536 Trn: 0552429971Tc",
+        "monto": 2.49,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios profesionales / SaaS"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Comcast-Xfinity Orig ID:0000213249 Desc Date:260225 CO Entry Descr:Cable Svcssec:Web Trace#:021000029502712 Eed:260225 Ind ID:9087371 Ind Name:Amc *Bus Inc 800-266-2278 Trn: 0569502712Tc",
+        "monto": 743.44,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Telecomunicaciones"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Comcast-Xfinity Orig ID:0000213249 Desc Date:260225 CO Entry Descr:Cable Svcssec:Web Trace#:021000029502714 Eed:260225 Ind ID:9087469 Ind Name:Amc *Bus Inc 800-266-2278 Trn: 0569502714Tc",
+        "monto": 506.33,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Telecomunicaciones"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000023966843 Eed:260225 Ind ID:CA0F51B407A0B7B Ind Name:Antonio Mejia Cuellar Trn: 0563966843Tc",
+        "monto": 500.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Xcel Energy-Psco Orig ID:7840296600 Desc Date: CO Entry Descr:Xcelenergysec:Web Trace#:091000016613219 Eed:260226 Ind ID:00147160413 Ind Name:Chase1587 615500748 Trn: 0566613219Tc",
+        "monto": 1936.75,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Xcel Energy-Psco Orig ID:7840296600 Desc Date: CO Entry Descr:Xcelenergysec:Web Trace#:091000016613218 Eed:260226 Ind ID:00147160413 Ind Name:Chase1587 615500725 Trn: 0566613218Tc",
+        "monto": 1440.68,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Voya Nat Trst182 Orig ID:8602739614 Desc Date:260225 CO Entry Descr:Spnsr P/R Sec:CCD Trace#:021000026613226 Eed:260226 Ind ID:875350 0001 Ind Name:El Paso - LA Limo Expr Trn: 0566613226T",
+        "monto": 1169.8,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Beneficios / plan de retiro (Voya)"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Xcel Energy-Psco Orig ID:7840296600 Desc Date: CO Entry Descr:Xcelenergysec:Web Trace#:091000016613216 Eed:260226 Ind ID:00034481900 Ind Name:1587 615431899 Trn: 0566613216Tc",
+        "monto": 511.52,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Xcel Energy-Psco Orig ID:7840296600 Desc Date: CO Entry Descr:Xcelenergysec:Web Trace#:091000016613217 Eed:260226 Ind ID:00034481900 Ind Name:1587 615431912 Trn: 0566613217Tc",
+        "monto": 431.83,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Dnvrwtr Sdpy Orig ID:9200707133 Desc Date:260226 CO Entry Descr:Dnvrwtrpmtsec:Web Trace#:091000016613213 Eed:260226 Ind ID:3014862225 Ind Name:Amc Bus Inc Trn: 0566613213Tc",
+        "monto": 196.41,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Att Orig ID:9864031005 Desc Date:022426 CO Entry Descr:Payment Sec:Web Trace#:031100206613224 Eed:260226 Ind ID:876746003Myw9A Ind Name:Valued Customer Trn: 0566613224Tc Page 9 of 12 Janu",
+        "monto": 164.54,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Dnvrwtr Sdpy Orig ID:9200707133 Desc Date:260226 CO Entry Descr:Dnvrwtrpmtsec:Web Trace#:091000016613214 Eed:260226 Ind ID:7076310000 Ind Name:Amc Bus Inc Trn: 0566613214Tc",
+        "monto": 104.36,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Sbmwdwater Orig ID:5956000771 Desc Date:260225 CO Entry Descr:Sbmwdwatersec:Web Trace#:091000016613221 Eed:260226 Ind ID:82506608 Ind Name:Amc Bus Inc Epayment Trn: 0566613221Tc",
+        "monto": 81.98,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Att Orig ID:9864031005 Desc Date:022426 CO Entry Descr:Payment Sec:Web Trace#:031100206613223 Eed:260226 Ind ID:871322003Myw9A Ind Name:Valued Customer Trn: 0566613223Tc",
+        "monto": 39.07,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Telecomunicaciones"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/021320040138014441 Aeropuerto DE Tijuana Sa DE Cv Ref: Jtij0",
+        "monto": 8149.94,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Orig CO Name:Spectrum Orig ID:0000358635 Desc Date:260226 CO Entry Descr:Spectrum Sec:Web Trace#:021000020871428 Eed:260226 Ind ID:9524280 Ind Name:Amc Bus Inc 855-707-7328 Trn: 0570871428Tc",
+        "monto": 225.98,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Telecomunicaciones"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000597883021 Trn: 0002525229Xf",
+        "monto": 61151.55,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "3021",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:Aaa Oil Inc Orig ID:1680593652 Desc Date:260227 CO Entry Descr:CA Fuels Sec:PPD Trace#:071000281746529 Eed:260227 Ind ID:2734 (501803) Ind Name:Amc Bus 1587 Trn: 0571746529Tc",
+        "monto": 33469.98,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:Global Alternati Orig ID:3205244215 Desc Date:260227 CO Entry Descr:Cash Con Sec:CCD Trace#:071000281746538 Eed:260227 Ind ID: Ind Name:Amc Bus, Inc Invoice 73538 & 7363 Trn: 0571746538Tc",
+        "monto": 22814.04,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Global Alternati (proveedor)"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:Stdinslbsic Orig ID:E930242990 Desc Date: CO Entry Descr:Web Pymnt Sec:Web Trace#:042000011746531 Eed:260227 Ind ID:918484533 Ind Name:Amc Bus Inc Amc Bus IN Trn: 0571746531Tc",
+        "monto": 1559.82,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguros"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:Waste Management Orig ID:9580653001 Desc Date:260226 CO Entry Descr:Payment Sec:PPD Trace#:021000021746540 Eed:260227 Ind ID:000295806713005 Ind Name:Amc Bus Inc Log IN To The My Wm Accou",
+        "monto": 708.66,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Manejo de residuos / ambiental"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:So Cal Edison CO Orig ID:4951240335 Desc Date:260226 CO Entry Descr:Bill Paymtsec:Web Trace#:091000011746536 Eed:260227 Ind ID:700837393566 Ind Name:Dba Limousines Amc Bu Trn: 0571746536T",
+        "monto": 628.8,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:Ladwp Orig ID:4956000736 Desc Date:260226 CO Entry Descr:Web Pay Sec:CCD Trace#:091000011746533 Eed:260227 Ind ID:2969305923 Ind Name:Amc Bus Inc 8003425397 Trn: 0571746533Tc",
+        "monto": 516.7,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:Waste Management Orig ID:9580653001 Desc Date:260226 CO Entry Descr:Payment Sec:PPD Trace#:021000021746542 Eed:260227 Ind ID:000254228073005 Ind Name:Amc Bus Inc Log IN To The My Wm Accou",
+        "monto": 324.17,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Manejo de residuos / ambiental"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:Board of Commiss Orig ID:0000000160 Desc Date:260226 CO Entry Descr:Billpay Sec:Web Trace#:091000016595065 Eed:260227 Ind ID:City of Las Cru Ind Name:Amc Bus Inc Billpay Trn: 0586595065Tc",
+        "monto": 197.42,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:So Cal Edison CO Orig ID:4951240335 Desc Date:260226 CO Entry Descr:Bill Paymtsec:Web Trace#:091000011746535 Eed:260227 Ind ID:700484742184 Ind Name:Amc Bus Inc Trn: 0571746535Tc",
+        "monto": 148.63,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Servicios publicos (multi-ciudad)"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000595111587 Amc Bus, Inc. Ben:/012028001145981215 Autotrans Mexsdelcentmedoesteyelpac Ref: ",
+        "monto": 37206.03,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:United Healthcar Orig ID:1411289245 Desc Date: CO Entry Descr:EDI Paymtssec:CTX Trace#:043000261762281 Eed:260227 Ind ID:089322469615 Ind Name:0007Amc Bus, Inc. Trn: 0581762281Tc",
+        "monto": 16995.88,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Seguros"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Orig CO Name:Capital One Orig ID:9279744391 Desc Date: CO Entry Descr:Online Pmtsec:CCD Trace#:021000027719319 Eed:260227 Ind ID:CA0955227Ad8Ae0 Ind Name:Antonio Mejia Cuellar Trn: 0587719319Tc Total*",
+        "monto": 3350.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      }
+    ],
+    "control": {
+      "suma_depositos_parseados": 1491291.11,
+      "suma_retiros_parseados": 1197547.92,
+      "reconcilia_depositos": true,
+      "reconcilia_retiros": true,
+      "saldo_calculado": 0.0,
+      "reconcilia_saldo": true
+    }
+  },
+  {
+    "company": "AMC BUS",
+    "cuenta_suffix": "3021",
+    "nombre_cuenta": "COMMERCIAL CHECKING",
+    "rol": "concentradora",
+    "periodo": "2026-02",
+    "resumen": {
+      "saldo_inicial": 26717.03,
+      "saldo_final": 129030.81,
+      "total_depositos": 2116293.98,
+      "total_retiros": 2013980.2,
+      "total_cheques": 0.0
+    },
+    "depositos": [
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0004512469Xf",
+        "monto": 10702.13
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0004512449Xf",
+        "monto": 9471.0
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2701",
+        "oficina": "43 INDIO AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682701 Trn: 0004671869Xf",
+        "monto": 7926.0
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1628",
+        "oficina": "4920 ANAHEIM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771628 Trn: 0004512729Xf",
+        "monto": 4812.0
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0004566619Xf",
+        "monto": 3766.0
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0004512609Xf",
+        "monto": 3747.08
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2669",
+        "oficina": "40 LOS ANGELES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682669 Trn: 0004671889Xf",
+        "monto": 2741.75
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0004566599Xf",
+        "monto": 2069.26
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0004512809Xf * Annual Percentage Yield Earned - the percentage rate earned if bal",
+        "monto": 2020.0
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2719",
+        "oficina": "44 SB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682719 Trn: 0004671849Xf",
+        "monto": 1955.79
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0004671989Xf",
+        "monto": 1941.07
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2685",
+        "oficina": "41 EL MONTE TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682685 Trn: 0004671949Xf",
+        "monto": 1278.55
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0004512629Xf",
+        "monto": 1228.19
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0004512569Xf",
+        "monto": 1175.73
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0004512649Xf",
+        "monto": 1054.0
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8005",
+        "oficina": "60 LAS VEGAS TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688005 Trn: 0004671929Xf",
+        "monto": 1027.0
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0004512489Xf",
+        "monto": 1009.75
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0004606219Xf",
+        "monto": 973.58
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8062",
+        "oficina": "CORPORATE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688062 Trn: 0004512549Xf",
+        "monto": 909.0
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0004671909Xf",
+        "monto": 712.36
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0004512669Xf",
+        "monto": 542.97
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0004671829Xf",
+        "monto": 474.11
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "6725",
+        "oficina": "32 LAS CRUCES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000706686725 Trn: 0004512789Xf",
+        "monto": 472.5
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0004512749Xf",
+        "monto": 382.0
+      },
+      {
+        "fecha": "02/02",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0004671969Xf",
+        "monto": 362.58
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0005439549Xf",
+        "monto": 14269.42
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0005539299Xf",
+        "monto": 2570.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0005439729Xf",
+        "monto": 1803.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0005439669Xf",
+        "monto": 1781.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0005439589Xf",
+        "monto": 1754.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0005507439Xf",
+        "monto": 1170.77
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2669",
+        "oficina": "40 LOS ANGELES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682669 Trn: 0005593799Xf",
+        "monto": 1011.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0005439689Xf",
+        "monto": 647.2
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0005507419Xf",
+        "monto": 627.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0005439569Xf",
+        "monto": 546.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0005593839Xf Page 2 of 18 January 31, 2026 through February 27, 2026 Account Numb",
+        "monto": 394.5
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0005593819Xf",
+        "monto": 344.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0005439629Xf",
+        "monto": 301.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0005593779Xf",
+        "monto": 192.25
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0005439609Xf",
+        "monto": 120.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0005539319Xf",
+        "monto": 102.0
+      },
+      {
+        "fecha": "02/03",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0005439649Xf",
+        "monto": 63.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0006326789Xf",
+        "monto": 32234.69
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0006326769Xf",
+        "monto": 12313.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0006326989Xf",
+        "monto": 4422.82
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8021",
+        "oficina": "EL PASO CHARTERS",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688021 Trn: 0006326969Xf",
+        "monto": 2400.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0006326949Xf",
+        "monto": 1460.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0006326889Xf",
+        "monto": 1329.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8062",
+        "oficina": "CORPORATE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688062 Trn: 0006326849Xf",
+        "monto": 1322.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0006326869Xf",
+        "monto": 1240.79
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0006433989Xf",
+        "monto": 1103.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0006327029Xf",
+        "monto": 961.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0006556209Xf",
+        "monto": 830.5
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0006326929Xf",
+        "monto": 570.4
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0006326809Xf",
+        "monto": 395.71
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0006326909Xf",
+        "monto": 278.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0006556169Xf",
+        "monto": 188.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0006458869Xf",
+        "monto": 165.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0006556149Xf",
+        "monto": 96.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0006556189Xf",
+        "monto": 47.0
+      },
+      {
+        "fecha": "02/04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1610",
+        "oficina": "4920 ANAHEIM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771610 Trn: 0006326829Xf",
+        "monto": 38.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0007294899Xf",
+        "monto": 13932.6
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0007294819Xf Page 3 of 18 January 31, 2026 through February 27, 2026 Account Numb",
+        "monto": 11026.31
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0007359099Xf",
+        "monto": 2599.72
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0007294939Xf",
+        "monto": 2440.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0007294859Xf",
+        "monto": 1949.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0007294959Xf",
+        "monto": 1913.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2669",
+        "oficina": "40 LOS ANGELES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682669 Trn: 0007484919Xf",
+        "monto": 1587.75
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0007484979Xf",
+        "monto": 680.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0007382959Xf",
+        "monto": 539.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0007484899Xf",
+        "monto": 514.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0007359079Xf",
+        "monto": 286.78
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0007294879Xf",
+        "monto": 264.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0007294999Xf",
+        "monto": 256.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0007294839Xf",
+        "monto": 249.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0007382979Xf",
+        "monto": 241.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0007484959Xf",
+        "monto": 115.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0007294919Xf",
+        "monto": 113.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0007484939Xf",
+        "monto": 49.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "7553",
+        "oficina": "IBL OPERATING",
+        "descripcion": "Online Transfer From Chk ...7553 Transaction#: 27964913226",
+        "monto": 80000.0
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8560",
+        "oficina": "4910 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708560 Trn: 0008217379Xf",
+        "monto": 30476.0
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0008217339Xf",
+        "monto": 11131.89
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1628",
+        "oficina": "4920 ANAHEIM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771628 Trn: 0008217499Xf",
+        "monto": 4026.0
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0008217399Xf",
+        "monto": 2691.75
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0008217479Xf",
+        "monto": 1502.0
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0008217519Xf",
+        "monto": 1306.8
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0008317569Xf",
+        "monto": 1165.42
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8005",
+        "oficina": "60 LAS VEGAS TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688005 Trn: 0008442149Xf",
+        "monto": 906.25
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0008217439Xf",
+        "monto": 424.0
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0008217359Xf",
+        "monto": 353.0
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0008344189Xf Page 4 of 18 January 31, 2026 through February 27, 2026 Account Numb",
+        "monto": 194.75
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0008217419Xf",
+        "monto": 188.0
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0008442169Xf",
+        "monto": 141.0
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0008217459Xf",
+        "monto": 105.25
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0008442129Xf",
+        "monto": 67.0
+      },
+      {
+        "fecha": "02/06",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "7553",
+        "oficina": "IBL OPERATING",
+        "descripcion": "Online Transfer From Chk ...7553 Transaction#: 27975863773",
+        "monto": 25000.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8560",
+        "oficina": "4910 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708560 Trn: 0000197699Xf",
+        "monto": 49990.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0000197639Xf",
+        "monto": 17744.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0000197659Xf",
+        "monto": 11390.97
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0000197839Xf",
+        "monto": 8519.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0000197759Xf",
+        "monto": 7133.5
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2701",
+        "oficina": "43 INDIO AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682701 Trn: 0000354549Xf",
+        "monto": 6684.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0000218989Xf",
+        "monto": 6523.25
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0000197899Xf",
+        "monto": 2943.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0000218969Xf",
+        "monto": 2676.36
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0000354629Xf",
+        "monto": 2413.16
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2719",
+        "oficina": "44 SB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682719 Trn: 0000354529Xf",
+        "monto": 2285.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0000197679Xf",
+        "monto": 2004.25
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0000197739Xf",
+        "monto": 1663.45
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "6725",
+        "oficina": "32 LAS CRUCES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000706686725 Trn: 0000197879Xf",
+        "monto": 1549.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0000197779Xf",
+        "monto": 1455.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0000256989Xf",
+        "monto": 1109.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0000354609Xf",
+        "monto": 1015.75
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0000197819Xf",
+        "monto": 910.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0000354569Xf",
+        "monto": 740.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0000256969Xf",
+        "monto": 716.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8005",
+        "oficina": "60 LAS VEGAS TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688005 Trn: 0000354589Xf",
+        "monto": 600.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0000354509Xf",
+        "monto": 560.25
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1610",
+        "oficina": "4920 ANAHEIM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771610 Trn: 0000197719Xf Page 5 of 18 January 31, 2026 through February 27, 2026 Account Numb",
+        "monto": 228.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1988",
+        "oficina": "SIN CATALOGAR",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000002906361988 Trn: 0000197919Xf",
+        "monto": 169.0
+      },
+      {
+        "fecha": "02/09",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0000197799Xf",
+        "monto": 85.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0001061109Xf",
+        "monto": 12288.47
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2669",
+        "oficina": "40 LOS ANGELES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682669 Trn: 0001280139Xf",
+        "monto": 6018.35
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0001061249Xf",
+        "monto": 3195.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0001141819Xf",
+        "monto": 1864.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0001061169Xf",
+        "monto": 1786.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0001141799Xf",
+        "monto": 1574.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0001061129Xf",
+        "monto": 858.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0001280179Xf",
+        "monto": 821.25
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0001061229Xf",
+        "monto": 546.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0001061189Xf",
+        "monto": 453.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0001183999Xf",
+        "monto": 333.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0001061269Xf",
+        "monto": 253.6
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0001061209Xf",
+        "monto": 110.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0001280159Xf",
+        "monto": 91.5
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1610",
+        "oficina": "4920 ANAHEIM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771610 Trn: 0001061149Xf",
+        "monto": 38.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0002021989Xf",
+        "monto": 36781.82
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8560",
+        "oficina": "4910 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708560 Trn: 0002022029Xf",
+        "monto": 11056.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0002021969Xf",
+        "monto": 5723.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1628",
+        "oficina": "4920 ANAHEIM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771628 Trn: 0002022209Xf",
+        "monto": 4458.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0002022189Xf",
+        "monto": 4399.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2685",
+        "oficina": "41 EL MONTE TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682685 Trn: 0002134509Xf",
+        "monto": 3036.83
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0002022109Xf",
+        "monto": 2235.25
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0002022229Xf",
+        "monto": 2170.4
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0002053489Xf",
+        "monto": 1652.35
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8062",
+        "oficina": "CORPORATE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688062 Trn: 0002022069Xf Page 6 of 18 January 31, 2026 through February 27, 2026 Account Numb",
+        "monto": 1642.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0002053509Xf",
+        "monto": 1492.75
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0002084129Xf",
+        "monto": 1317.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2669",
+        "oficina": "40 LOS ANGELES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682669 Trn: 0002134469Xf",
+        "monto": 1063.5
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0002084149Xf",
+        "monto": 755.75
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0002134529Xf",
+        "monto": 589.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "6725",
+        "oficina": "32 LAS CRUCES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000706686725 Trn: 0002022269Xf",
+        "monto": 573.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0002022089Xf",
+        "monto": 537.75
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0002022009Xf",
+        "monto": 480.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0002134549Xf",
+        "monto": 289.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0002022149Xf",
+        "monto": 240.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0002134489Xf",
+        "monto": 218.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0002022169Xf",
+        "monto": 202.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0002022129Xf",
+        "monto": 114.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1610",
+        "oficina": "4920 ANAHEIM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771610 Trn: 0002022049Xf",
+        "monto": 38.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0002134449Xf",
+        "monto": 30.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0002893519Xf",
+        "monto": 16275.7
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8560",
+        "oficina": "4910 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708560 Trn: 0002893559Xf",
+        "monto": 14429.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0002893639Xf",
+        "monto": 2635.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0002893579Xf",
+        "monto": 2424.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0003003279Xf",
+        "monto": 2073.59
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0003003259Xf",
+        "monto": 1494.11
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0002893619Xf",
+        "monto": 1433.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0003086139Xf",
+        "monto": 1026.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0002893539Xf",
+        "monto": 862.75
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0003023159Xf",
+        "monto": 669.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0002893599Xf",
+        "monto": 591.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0003086079Xf Page 7 of 18 January 31, 2026 through February 27, 2026 Account Numb",
+        "monto": 215.75
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0003086119Xf",
+        "monto": 180.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0003086099Xf",
+        "monto": 41.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0003880069Xf",
+        "monto": 19275.59
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0003880049Xf",
+        "monto": 7469.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0003880289Xf",
+        "monto": 4160.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0003880229Xf",
+        "monto": 3500.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0003880149Xf",
+        "monto": 2868.9
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8062",
+        "oficina": "CORPORATE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688062 Trn: 0003880109Xf",
+        "monto": 1448.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2719",
+        "oficina": "44 SB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682719 Trn: 0004017389Xf",
+        "monto": 1282.25
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0003880189Xf",
+        "monto": 1112.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0003981519Xf",
+        "monto": 792.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0003950579Xf",
+        "monto": 658.33
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0003880089Xf",
+        "monto": 580.22
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "6725",
+        "oficina": "32 LAS CRUCES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000706686725 Trn: 0003880269Xf",
+        "monto": 575.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0003880129Xf",
+        "monto": 540.58
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8005",
+        "oficina": "60 LAS VEGAS TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688005 Trn: 0004017429Xf",
+        "monto": 410.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0004017469Xf",
+        "monto": 280.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0004017369Xf",
+        "monto": 277.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0003880169Xf",
+        "monto": 262.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0004017449Xf",
+        "monto": 180.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0004017409Xf",
+        "monto": 148.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0003880209Xf",
+        "monto": 95.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0003981539Xf",
+        "monto": 41.0
+      },
+      {
+        "fecha": "02/13",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "7553",
+        "oficina": "IBL OPERATING",
+        "descripcion": "Online Transfer From Chk ...7553 Transaction#: 28061547090",
+        "monto": 12000.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0004947469Xf",
+        "monto": 15838.16
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0004947629Xf",
+        "monto": 13904.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0004947449Xf",
+        "monto": 12402.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0004947549Xf Page 8 of 18 January 31, 2026 through February 27, 2026 Account Numb",
+        "monto": 11697.25
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2701",
+        "oficina": "43 INDIO AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682701 Trn: 0005105939Xf",
+        "monto": 9665.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0004947589Xf",
+        "monto": 8170.6
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0004974569Xf",
+        "monto": 6822.5
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0004974549Xf",
+        "monto": 5061.35
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2669",
+        "oficina": "40 LOS ANGELES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682669 Trn: 0005105959Xf",
+        "monto": 4342.7
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0004947669Xf",
+        "monto": 4174.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0005106039Xf",
+        "monto": 2980.08
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0004947489Xf",
+        "monto": 2275.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0005031389Xf",
+        "monto": 1486.22
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2719",
+        "oficina": "44 SB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682719 Trn: 0005105919Xf",
+        "monto": 1403.86
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0004947569Xf",
+        "monto": 1393.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0004947529Xf",
+        "monto": 1276.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0005105899Xf",
+        "monto": 1098.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0004947609Xf",
+        "monto": 921.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0005106019Xf",
+        "monto": 885.75
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0005105979Xf",
+        "monto": 679.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8005",
+        "oficina": "60 LAS VEGAS TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688005 Trn: 0005105999Xf",
+        "monto": 672.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0005031369Xf",
+        "monto": 653.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1610",
+        "oficina": "4920 ANAHEIM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771610 Trn: 0004947509Xf",
+        "monto": 25.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8560",
+        "oficina": "4910 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708560 Trn: 0005871229Xf",
+        "monto": 30787.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0005871189Xf",
+        "monto": 17031.09
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0005871329Xf",
+        "monto": 3588.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2719",
+        "oficina": "44 SB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682719 Trn: 0006069919Xf",
+        "monto": 1739.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0005871249Xf",
+        "monto": 1296.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8021",
+        "oficina": "EL PASO CHARTERS",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688021 Trn: 0005871349Xf",
+        "monto": 854.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0005966839Xf",
+        "monto": 678.75
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0005932499Xf Page 9 of 18 January 31, 2026 through February 27, 2026 Account Numb",
+        "monto": 566.5
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0006069939Xf",
+        "monto": 540.25
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0005871209Xf",
+        "monto": 436.5
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0006069979Xf",
+        "monto": 389.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0006069899Xf",
+        "monto": 244.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0005871269Xf",
+        "monto": 204.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0005871289Xf",
+        "monto": 180.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0005966859Xf",
+        "monto": 113.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0006069959Xf",
+        "monto": 109.0
+      },
+      {
+        "fecha": "02/18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0005871309Xf",
+        "monto": 3.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0006815739Xf",
+        "monto": 52732.38
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0006815719Xf",
+        "monto": 10489.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2701",
+        "oficina": "43 INDIO AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682701 Trn: 0006995679Xf",
+        "monto": 8403.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1628",
+        "oficina": "4920 ANAHEIM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771628 Trn: 0006815899Xf",
+        "monto": 4162.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0006815879Xf",
+        "monto": 3506.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0006874049Xf",
+        "monto": 3049.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0006815819Xf",
+        "monto": 2068.87
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "6725",
+        "oficina": "32 LAS CRUCES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000706686725 Trn: 0006815959Xf",
+        "monto": 1518.5
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8062",
+        "oficina": "CORPORATE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688062 Trn: 0006815779Xf",
+        "monto": 1154.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0006815979Xf",
+        "monto": 960.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0006815919Xf",
+        "monto": 787.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0006815799Xf",
+        "monto": 697.07
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0006815759Xf",
+        "monto": 564.49
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0006899619Xf",
+        "monto": 465.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0006874029Xf",
+        "monto": 452.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0006995659Xf",
+        "monto": 430.75
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0006995699Xf",
+        "monto": 430.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0006815859Xf Page 10 of 18 January 31, 2026 through February 27, 2026 Account Num",
+        "monto": 241.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0006995719Xf",
+        "monto": 160.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0006815839Xf",
+        "monto": 120.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "otro_ingreso",
+        "cuenta_origen_suffix": null,
+        "oficina": null,
+        "descripcion": "Fedwire Credit Via: The Bank of New York Mellon/021000018 B/O: 1/Autotransportes Mexicanos Del Ce+3/Mx/Notprovided,32652,Ch,Juarez Ref: Chase Nyc/Ctr/",
+        "monto": 457591.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0007808969Xf",
+        "monto": 270777.91
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0007809049Xf",
+        "monto": 3836.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0007809009Xf",
+        "monto": 2472.68
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2669",
+        "oficina": "40 LOS ANGELES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682669 Trn: 0007953389Xf",
+        "monto": 2228.75
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0007809089Xf",
+        "monto": 1817.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0007855919Xf",
+        "monto": 1392.15
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8005",
+        "oficina": "60 LAS VEGAS TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688005 Trn: 0007953429Xf",
+        "monto": 1121.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0007953469Xf",
+        "monto": 599.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0007808989Xf",
+        "monto": 373.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0007860279Xf",
+        "monto": 337.08
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0007953409Xf",
+        "monto": 204.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0007953449Xf",
+        "monto": 180.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0007809069Xf",
+        "monto": 172.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0007809029Xf",
+        "monto": 114.0
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8560",
+        "oficina": "4910 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708560 Trn: 0008644639Xf",
+        "monto": 35966.8
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2610",
+        "oficina": "22 CSP AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682610 Trn: 0008762689Xf",
+        "monto": 26514.0
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0008644579Xf",
+        "monto": 12257.95
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0008644559Xf",
+        "monto": 11043.38
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0008644779Xf",
+        "monto": 9302.65
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0008644699Xf",
+        "monto": 7343.25
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2685",
+        "oficina": "41 EL MONTE TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682685 Trn: 0008845319Xf",
+        "monto": 4792.5
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0008762649Xf Page 11 of 18 January 31, 2026 through February 27, 2026 Account Num",
+        "monto": 3602.25
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8062",
+        "oficina": "CORPORATE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688062 Trn: 0008644659Xf",
+        "monto": 3302.0
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0008644839Xf",
+        "monto": 3114.51
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0008762669Xf",
+        "monto": 3032.5
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2719",
+        "oficina": "44 SB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682719 Trn: 0008845279Xf",
+        "monto": 2709.5
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0008845339Xf",
+        "monto": 2143.0
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0008845359Xf",
+        "monto": 1992.74
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0008798589Xf",
+        "monto": 1912.18
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0008644599Xf",
+        "monto": 1471.06
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0008798569Xf",
+        "monto": 1372.25
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0008845299Xf",
+        "monto": 865.25
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0008644759Xf",
+        "monto": 848.75
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0008644719Xf",
+        "monto": 771.0
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0008644679Xf",
+        "monto": 768.07
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0008845259Xf",
+        "monto": 595.0
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "6725",
+        "oficina": "32 LAS CRUCES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000706686725 Trn: 0008644819Xf",
+        "monto": 589.5
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1988",
+        "oficina": "SIN CATALOGAR",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000002906361988 Trn: 0008644859Xf",
+        "monto": 192.0
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0008644739Xf",
+        "monto": 110.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0000646239Xf",
+        "monto": 15263.93
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0000646279Xf",
+        "monto": 2838.75
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0000646359Xf",
+        "monto": 2323.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0000696959Xf",
+        "monto": 959.25
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0000646439Xf",
+        "monto": 870.75
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0000646399Xf",
+        "monto": 854.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0000669459Xf",
+        "monto": 611.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8021",
+        "oficina": "EL PASO CHARTERS",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688021 Trn: 0000646379Xf",
+        "monto": 462.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0000751459Xf",
+        "monto": 441.75
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0000751419Xf Page 12 of 18 January 31, 2026 through February 27, 2026 Account Num",
+        "monto": 416.25
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0000646259Xf",
+        "monto": 352.75
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0000751399Xf",
+        "monto": 313.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0000646319Xf",
+        "monto": 276.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0000646299Xf",
+        "monto": 247.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0000696979Xf",
+        "monto": 227.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0000646339Xf",
+        "monto": 207.0
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0000751439Xf",
+        "monto": 192.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0001588479Xf",
+        "monto": 37769.42
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8560",
+        "oficina": "4910 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708560 Trn: 0001588519Xf",
+        "monto": 19423.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0001588459Xf",
+        "monto": 11839.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2669",
+        "oficina": "40 LOS ANGELES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682669 Trn: 0001742139Xf",
+        "monto": 4191.14
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0001588619Xf",
+        "monto": 3100.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0001588579Xf",
+        "monto": 3036.6
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0001601659Xf",
+        "monto": 2120.5
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8062",
+        "oficina": "CORPORATE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688062 Trn: 0001588539Xf",
+        "monto": 1928.28
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0001588659Xf",
+        "monto": 1627.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0001626679Xf",
+        "monto": 952.5
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0001588559Xf",
+        "monto": 792.25
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0001742159Xf",
+        "monto": 548.5
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0001588599Xf",
+        "monto": 487.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0001588719Xf",
+        "monto": 459.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0001742179Xf",
+        "monto": 455.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0001588499Xf",
+        "monto": 304.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0001742119Xf",
+        "monto": 294.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0001601639Xf",
+        "monto": 276.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0001588679Xf",
+        "monto": 160.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0001588639Xf Page 13 of 18 January 31, 2026 through February 27, 2026 Account Num",
+        "monto": 60.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1587",
+        "oficina": "OPERATING NEW",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000595111587 Trn: 0002525239Xf",
+        "monto": 61151.55
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0002525059Xf",
+        "monto": 12781.84
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1628",
+        "oficina": "4920 ANAHEIM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771628 Trn: 0002525199Xf",
+        "monto": 3623.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0002525179Xf",
+        "monto": 3160.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0002566559Xf",
+        "monto": 2419.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0002525219Xf",
+        "monto": 1530.4
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0002525099Xf",
+        "monto": 1430.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8005",
+        "oficina": "60 LAS VEGAS TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688005 Trn: 0002686509Xf",
+        "monto": 1429.75
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0002525139Xf",
+        "monto": 665.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0002686489Xf",
+        "monto": 460.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0002686549Xf",
+        "monto": 438.5
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7987",
+        "oficina": "30 ALB TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732757987 Trn: 0002525259Xf",
+        "monto": 418.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0002598769Xf",
+        "monto": 339.75
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7825",
+        "oficina": "49 SAN YSIDRO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000519397825 Trn: 0002525119Xf",
+        "monto": 204.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0002525159Xf",
+        "monto": 54.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0002525079Xf",
+        "monto": 54.0
+      },
+      {
+        "fecha": "02/26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0002686529Xf",
+        "monto": 35.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8560",
+        "oficina": "4910 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708560 Trn: 0003475479Xf",
+        "monto": 19592.02
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8070",
+        "oficina": "ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688070 Trn: 0003475439Xf",
+        "monto": 12746.64
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8131",
+        "oficina": "CA AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000665328131 Trn: 0003475599Xf",
+        "monto": 11548.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2331",
+        "oficina": "10 EL PASO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509662331 Trn: 0003475419Xf",
+        "monto": 7436.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2701",
+        "oficina": "43 INDIO AGENCY",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682701 Trn: 0003656589Xf",
+        "monto": 6263.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8578",
+        "oficina": "4910 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000833708578 Trn: 0003475639Xf",
+        "monto": 3226.37
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7660",
+        "oficina": "10 EL PASO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509667660 Trn: 0003475579Xf",
+        "monto": 2277.16
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8062",
+        "oficina": "CORPORATE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688062 Trn: 0003475519Xf",
+        "monto": 2074.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2669",
+        "oficina": "40 LOS ANGELES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682669 Trn: 0003656609Xf",
+        "monto": 1658.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2578",
+        "oficina": "20 DENVER TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682578 Trn: 0003516629Xf Page 14 of 18 January 31, 2026 through February 27, 2026 Account Num",
+        "monto": 1287.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2685",
+        "oficina": "41 EL MONTE TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682685 Trn: 0003656649Xf",
+        "monto": 1277.48
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9068",
+        "oficina": "21 GREELEY AGENCY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596989068 Trn: 0003475559Xf",
+        "monto": 898.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9237",
+        "oficina": "12 EL PASO FREIGHT",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509669237 Trn: 0003475539Xf",
+        "monto": 890.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1271",
+        "oficina": "30 ALB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596981271 Trn: 0003475459Xf",
+        "monto": 670.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7965",
+        "oficina": "50 PHOENIX TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687965 Trn: 0003542849Xf",
+        "monto": 617.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2586",
+        "oficina": "20 DENVER TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682586 Trn: 0003516609Xf",
+        "monto": 556.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7973",
+        "oficina": "50 PHOENIX TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509687973 Trn: 0003542869Xf",
+        "monto": 487.72
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8508",
+        "oficina": "CA AGENCY NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000558258508 Trn: 0003475659Xf",
+        "monto": 470.4
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "6725",
+        "oficina": "32 LAS CRUCES TERM",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000706686725 Trn: 0003475699Xf",
+        "monto": 440.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2727",
+        "oficina": "44 SB TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682727 Trn: 0003656569Xf",
+        "monto": 343.5
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2677",
+        "oficina": "40 LA TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682677 Trn: 0003656689Xf",
+        "monto": 299.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8013",
+        "oficina": "60 LAS VEGAS TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509688013 Trn: 0003656629Xf",
+        "monto": 296.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2693",
+        "oficina": "41 EL MONTE TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000509682693 Trn: 0003656669Xf",
+        "monto": 163.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1610",
+        "oficina": "4920 ANAHEIM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000898771610 Trn: 0003475499Xf",
+        "monto": 76.0
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3376",
+        "oficina": "32 LASCRUCES TERM CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000596983376 Trn: 0003475619Xf",
+        "monto": 11.0
+      }
+    ],
+    "retiros": [
+      {
+        "fecha": "02/02",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0004512769Xf",
+        "monto": 30958.55,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000833708578 Trn: 0004512689Xf",
+        "monto": 141.99,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "8578",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000898771610 Trn: 0004512529Xf",
+        "monto": 31.07,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1610",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000509688088 Trn: 0004512709Xf",
+        "monto": 30.35,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "8088",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000002906361988 Trn: 0004512829Xf",
+        "monto": 29.02,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000509688039 Trn: 0004512429Xf",
+        "monto": 25.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "8039",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000833708537 Trn: 0004512509Xf",
+        "monto": 25.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "8537",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000596989068 Trn: 0004512589Xf",
+        "monto": 25.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "9068",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/02",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000509682610 Trn: 0004566639Xf",
+        "monto": 25.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2610",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/03",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 27934740848 Page 15 of 18 January 31, 2026 through February 27, 2026 Account Number: 000000597883021 Withdrawals and Debits (continued) Ledger Description ",
+        "monto": 18000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/03",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0005439709Xf",
+        "monto": 77066.93,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/04",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0006327009Xf",
+        "monto": 4340.24,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/05",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 27959570125",
+        "monto": 61500.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/05",
+        "descripcion": "Online Transfer To Sav ...6081 Transaction#: 27964922197",
+        "monto": 80000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/05",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0007294979Xf",
+        "monto": 11911.83,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/06",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0008217539Xf",
+        "monto": 58272.35,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/09",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0000197859Xf",
+        "monto": 47190.26,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/10",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 28020004615",
+        "monto": 16000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/10",
+        "descripcion": "Online Transfer To Sav ...6081 Transaction#: 28024219523",
+        "monto": 105000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/10",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0001061289Xf",
+        "monto": 14376.53,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/11",
+        "descripcion": "Online Transfer To Sav ...6081 Transaction#: 28031185089",
+        "monto": 62000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/11",
+        "descripcion": "Online Transfer To Sav ...6081 Transaction#: 28034810709",
+        "monto": 19000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/11",
+        "descripcion": "Online Transfer To Sav ...6081 Transaction#: 28035512819",
+        "monto": 6000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/11",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0002022249Xf",
+        "monto": 414.6,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/12",
+        "descripcion": "Online Transfer To Sav ...6081 Transaction#: 28043387317",
+        "monto": 17924.12,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/12",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 28043591298",
+        "monto": 13000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/12",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0002893659Xf",
+        "monto": 2589.56,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/13",
+        "descripcion": "Online Domestic Wire Transfer A/C: ADP Client Trust Wilmington DE 19801- US Ref: Attention:Rbi ADP 03/I0G Trn: 3402856044Es YOUR REF: CML OF 26/02/13",
+        "monto": 45010.68,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/13",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0003880249Xf",
+        "monto": 29935.12,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 28106691154",
+        "monto": 20000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0004947649Xf",
+        "monto": 82229.96,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/18",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0005871369Xf",
+        "monto": 35749.6,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/19",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 28128612232",
+        "monto": 60000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/19",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0006815939Xf",
+        "monto": 2129.99,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 28145955058",
+        "monto": 1000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0007809109Xf",
+        "monto": 514846.25,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/23",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0008644799Xf",
+        "monto": 121903.42,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/23",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000501207218 Trn: 0008644619Xf",
+        "monto": 128.06,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 28187710909",
+        "monto": 19500.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0000646419Xf",
+        "monto": 149012.72,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 28203384369",
+        "monto": 1000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Online Transfer To Chk ...7218 Transaction#: 28204342209",
+        "monto": 59500.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0001588699Xf",
+        "monto": 80335.25,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "1587",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/27",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000595111587 Trn: 0003475679Xf Page 16 of 18 January 31, 2026 through February 27, 2026 Account Number: 000000597883021 Withdrawals and Debits (continue",
+        "monto": 145821.75,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "3021",
+        "categoria": "Traspaso interno"
+      }
+    ],
+    "control": {
+      "suma_depositos_parseados": 2116293.98,
+      "suma_retiros_parseados": 2013980.2,
+      "reconcilia_depositos": true,
+      "reconcilia_retiros": true,
+      "saldo_calculado": 129030.81,
+      "reconcilia_saldo": true
+    }
+  },
+  {
+    "company": "AMC BUS",
+    "cuenta_suffix": "6081",
+    "nombre_cuenta": "PREM CMML MONEY MKT",
+    "rol": "ahorro",
+    "periodo": "2026-02",
+    "resumen": {
+      "saldo_inicial": 414.24,
+      "saldo_final": 14.52,
+      "total_depositos": 300938.64,
+      "total_retiros": 301338.36
+    },
+    "depositos": [
+      {
+        "fecha": "02/05",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 27964922197",
+        "monto": 80000.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28024219523",
+        "monto": 105000.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28031185089",
+        "monto": 62000.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28034810709",
+        "monto": 19000.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "7553",
+        "oficina": "IBL OPERATING",
+        "descripcion": "Online Transfer From Chk ...7553 Transaction#: 28035503580",
+        "monto": 11000.0
+      },
+      {
+        "fecha": "02/11",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: *end*transaction detail 28035512819 Page of 1 2 January 31, 2026 through February 27, 2026 Account Numb",
+        "monto": 6000.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28043387317",
+        "monto": 17924.12
+      },
+      {
+        "fecha": "02/27",
+        "tipo": "otro_ingreso",
+        "cuenta_origen_suffix": null,
+        "oficina": null,
+        "descripcion": "Interest Payment Ending Balance $14.52 *end*transaction detail *start*interest rate on collected balance2 INTEREST RATE ON COLLECTED BALANCE INTEREST ",
+        "monto": 14.52
+      }
+    ],
+    "retiros": [
+      {
+        "fecha": "02/11",
+        "descripcion": "Orig CO Name:Afco Direct Orig ID:1472319830 Desc Date:260210 CO Entry Descr:Payments Sec:CCD Trace#:091000011662304 Eed:260211 Ind ID:29393233 Ind Name:Amc Bus, Inc Trn: 0411662304Tc",
+        "monto": 301338.36,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      }
+    ],
+    "control": {
+      "suma_depositos_parseados": 300938.64,
+      "suma_retiros_parseados": 301338.36,
+      "reconcilia_depositos": true,
+      "reconcilia_retiros": true,
+      "saldo_calculado": 14.52,
+      "reconcilia_saldo": true
+    }
+  },
+  {
+    "company": "AMC BUS",
+    "cuenta_suffix": "7218",
+    "nombre_cuenta": "PAYROLL CHECKING",
+    "rol": "nomina",
+    "periodo": "2026-02",
+    "resumen": {
+      "saldo_inicial": 2867.43,
+      "saldo_final": 1862.78,
+      "total_depositos": 269628.06,
+      "total_retiros": 263644.75,
+      "total_cheques": 6987.96
+    },
+    "depositos": [
+      {
+        "fecha": "02/03",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 27934740848",
+        "monto": 18000.0
+      },
+      {
+        "fecha": "02/05",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 27959570125",
+        "monto": 61500.0
+      },
+      {
+        "fecha": "02/10",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28020004615",
+        "monto": 16000.0
+      },
+      {
+        "fecha": "02/12",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28043591298",
+        "monto": 13000.0
+      },
+      {
+        "fecha": "02/17",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28106691154",
+        "monto": 20000.0
+      },
+      {
+        "fecha": "02/19",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28128612232",
+        "monto": 60000.0
+      },
+      {
+        "fecha": "02/20",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28145955058",
+        "monto": 1000.0
+      },
+      {
+        "fecha": "02/23",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000597883021 Trn: 0008644609Xf",
+        "monto": 128.06
+      },
+      {
+        "fecha": "02/24",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28187710909",
+        "monto": 19500.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28204342209",
+        "monto": 59500.0
+      },
+      {
+        "fecha": "02/25",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 28203384369",
+        "monto": 1000.0
+      }
+    ],
+    "retiros": [
+      {
+        "fecha": "02/03",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6556067Vv 655 6067Vv Imad: 0203Mmqfmp2M012001 Trn: 0176971034Fg YOUR REF: 0176971034FG",
+        "monto": 4958.11,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/03",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/5450386573 Ad P Wage Pay Imad: 0203Mmqfmp2K012758 Trn: 0191911034Fg YOUR REF: 0191911034FG",
+        "monto": 12932.24,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/05",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6417429Vv 641 7429Vv Imad: 0205Mmqfmp2K014082 Trn: 0971321036Fg YOUR REF: 0971321036FG",
+        "monto": 14195.55,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/05",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6400371370 Ad P Wage Pay Imad: 0205Mmqfmp2L013806 Trn: 1055811036Fg YOUR REF: 1055811036FG",
+        "monto": 44503.64,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/10",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/2700404038 Ad P Wage Pay Imad: 0210Mmqfmp2L020047 Trn: 0238511041Fg YOUR REF: 0238511041FG",
+        "monto": 11856.45,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/10",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6650820Vv 665 0820Vv Imad: 0210Mmqfmp2N022435 Trn: 0249071041Fg YOUR REF: 0249071041FG",
+        "monto": 4093.65,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/12",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6668697Vv 666 8697Vv Imad: 0212Mmqfmp2K014580 Trn: 1277551043Fg YOUR REF: 1277551043FG",
+        "monto": 13801.84,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/5750368580 Ad P Wage Pay Imad: 0217Mmqfmp2N039393 Trn: 0171231048Fg YOUR REF: 0171231048FG",
+        "monto": 14392.96,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/17",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6721983Vv 672 1983Vv Imad: 0217Mmqfmp2K044341 Trn: 0184521048Fg YOUR REF: 0184521048FG",
+        "monto": 5414.97,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/19",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6739740Vv 673 9740Vv Imad: 0219Mmqfmp2L011694 Trn: 0874501050Fg YOUR REF: 0874501050FG",
+        "monto": 13669.51,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/19",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/5400354011 Ad P Wage Pay Imad: 0219Mmqfmp2L012465 Trn: 0915911050Fg YOUR REF: 0915911050FG",
+        "monto": 44965.59,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/20",
+        "descripcion": "Orig CO Name:ADP Payroll Fees Orig ID:9659605001 Desc Date:260220 CO Entry Descr:ADP Fees Sec:CCD Trace#:021000025302586 Eed:260220 Ind ID:668087316376 Ind Name:713784229Amc Bus Inc 550374703 Trn: 051",
+        "monto": 1933.91,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2586",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6781206Vv 678 1206Vv Imad: 0224Mmqfmp2M011259 Trn: 0173681055Fg YOUR REF: 0173681055FG",
+        "monto": 4767.01,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/24",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/5800362580 Ad P Wage Pay Imad: 0224Mmqfmp2K011481 Trn: 0179131055Fg YOUR REF: 0179131055FG Page 2 of ",
+        "monto": 13669.8,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7218",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "02/25",
+        "descripcion": "Orig CO Name:ADP Payroll Fees Orig ID:9659605001 Desc Date:260225 CO Entry Descr:ADP Fees Sec:CCD Trace#:021000023785928 Eed:260225 Ind ID:929041422751 Ind Name:713982610Amc Bus Inc 550374703 Trn: 056",
+        "monto": 1109.97,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6500359597 Ad P Wage Pay Imad: 0226Mmqfmp2L013825 Trn: 1353331057Fg YOUR REF: 1353331057FG",
+        "monto": 44168.09,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      },
+      {
+        "fecha": "02/26",
+        "descripcion": "Fedwire Debit Via: Dbtco Americas Nyc/021001033 A/C: ADP Client Trust 773 Ref:/Bnf/Svclvl/G001/Uri/6836617Vv 683 6617Vv Imad: 0226Mmqfmp2M016145 Trn: 1406061057Fg YOUR REF: 1406061057FG Total $263,644",
+        "monto": 13211.46,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Nomina (ADP)"
+      }
+    ],
+    "control": {
+      "suma_depositos_parseados": 269628.06,
+      "suma_retiros_parseados": 263644.75,
+      "reconcilia_depositos": true,
+      "reconcilia_retiros": true,
+      "saldo_calculado": 1862.78,
+      "reconcilia_saldo": true
+    }
+  }
+]
