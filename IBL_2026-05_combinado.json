@@ -1,0 +1,1372 @@
+[
+  {
+    "company": "IBL",
+    "cuenta_suffix": "7553",
+    "nombre_cuenta": "IBL OPERATING",
+    "rol": "Concentradora",
+    "periodo": "2026-05",
+    "resumen": {
+      "saldo_inicial": 63971.57,
+      "saldo_final": 51896.59,
+      "total_depositos": 306760.58,
+      "total_retiros": 256983.31,
+      "total_cheques": 61852.25
+    },
+    "depositos": [
+      {
+        "fecha": "2026-05-01",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0000932189Xf",
+        "monto": 44740.54
+      },
+      {
+        "fecha": "2026-05-01",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0000932109Xf",
+        "monto": 2411.0
+      },
+      {
+        "fecha": "2026-05-01",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0000932169Xf",
+        "monto": 708.0
+      },
+      {
+        "fecha": "2026-05-01",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0000932149Xf",
+        "monto": 680.0
+      },
+      {
+        "fecha": "2026-05-01",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0000932209Xf",
+        "monto": 571.0
+      },
+      {
+        "fecha": "2026-05-01",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0000932129Xf",
+        "monto": 290.0
+      },
+      {
+        "fecha": "2026-05-04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0001814809Xf",
+        "monto": 7113.0
+      },
+      {
+        "fecha": "2026-05-04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0001814929Xf",
+        "monto": 3517.57
+      },
+      {
+        "fecha": "2026-05-04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0001814909Xf * Annual Percentage Yield Earned - the percentage rate earned if bal",
+        "monto": 1109.19
+      },
+      {
+        "fecha": "2026-05-04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0001814889Xf",
+        "monto": 806.59
+      },
+      {
+        "fecha": "2026-05-04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2207",
+        "oficina": "IBL 4020 FRESNO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002207 Trn: 0001814829Xf",
+        "monto": 566.48
+      },
+      {
+        "fecha": "2026-05-04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0001814789Xf",
+        "monto": 432.0
+      },
+      {
+        "fecha": "2026-05-04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1829",
+        "oficina": "IBL 4000 LOS ANGELES",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001829 Trn: 0001814849Xf",
+        "monto": 259.0
+      },
+      {
+        "fecha": "2026-05-04",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0001814949Xf",
+        "monto": 231.18
+      },
+      {
+        "fecha": "2026-05-05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0002837399Xf",
+        "monto": 6143.16
+      },
+      {
+        "fecha": "2026-05-05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0002837459Xf",
+        "monto": 1292.0
+      },
+      {
+        "fecha": "2026-05-05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0002837379Xf",
+        "monto": 682.0
+      },
+      {
+        "fecha": "2026-05-05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0002837419Xf",
+        "monto": 361.0
+      },
+      {
+        "fecha": "2026-05-05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0002837479Xf",
+        "monto": 281.0
+      },
+      {
+        "fecha": "2026-05-05",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0002837439Xf",
+        "monto": 175.0
+      },
+      {
+        "fecha": "2026-05-06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0003729439Xf",
+        "monto": 5851.0
+      },
+      {
+        "fecha": "2026-05-06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0003729339Xf",
+        "monto": 4220.9
+      },
+      {
+        "fecha": "2026-05-06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0003729419Xf",
+        "monto": 1554.0
+      },
+      {
+        "fecha": "2026-05-06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0003729399Xf",
+        "monto": 906.0
+      },
+      {
+        "fecha": "2026-05-06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0003729459Xf",
+        "monto": 421.0
+      },
+      {
+        "fecha": "2026-05-06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0003729319Xf",
+        "monto": 337.0
+      },
+      {
+        "fecha": "2026-05-06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1829",
+        "oficina": "IBL 4000 LOS ANGELES",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001829 Trn: 0003729379Xf",
+        "monto": 324.0
+      },
+      {
+        "fecha": "2026-05-06",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2207",
+        "oficina": "IBL 4020 FRESNO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002207 Trn: 0003729359Xf",
+        "monto": 124.0
+      },
+      {
+        "fecha": "2026-05-07",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0004721549Xf",
+        "monto": 1388.0
+      },
+      {
+        "fecha": "2026-05-07",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0004721589Xf",
+        "monto": 1101.0
+      },
+      {
+        "fecha": "2026-05-07",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0004721609Xf",
+        "monto": 607.0
+      },
+      {
+        "fecha": "2026-05-07",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0004721569Xf",
+        "monto": 266.0
+      },
+      {
+        "fecha": "2026-05-07",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0004721529Xf",
+        "monto": 124.0
+      },
+      {
+        "fecha": "2026-05-08",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0005686359Xf",
+        "monto": 15624.0
+      },
+      {
+        "fecha": "2026-05-08",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0005686419Xf",
+        "monto": 2057.0
+      },
+      {
+        "fecha": "2026-05-08",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0005686459Xf",
+        "monto": 1149.0
+      },
+      {
+        "fecha": "2026-05-08",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0005686399Xf",
+        "monto": 1117.5
+      },
+      {
+        "fecha": "2026-05-08",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0005686439Xf",
+        "monto": 836.0
+      },
+      {
+        "fecha": "2026-05-08",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0005686379Xf",
+        "monto": 67.0
+      },
+      {
+        "fecha": "2026-05-11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0607",
+        "oficina": "IBL ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000572570607 Trn: 0006626359Xf",
+        "monto": 11998.66
+      },
+      {
+        "fecha": "2026-05-11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0006626399Xf",
+        "monto": 4023.0
+      },
+      {
+        "fecha": "2026-05-11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0006626379Xf",
+        "monto": 2464.0
+      },
+      {
+        "fecha": "2026-05-11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0006626339Xf",
+        "monto": 938.0
+      },
+      {
+        "fecha": "2026-05-11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0006626279Xf",
+        "monto": 819.0
+      },
+      {
+        "fecha": "2026-05-11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0006626299Xf",
+        "monto": 718.2
+      },
+      {
+        "fecha": "2026-05-11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0006626419Xf",
+        "monto": 421.0
+      },
+      {
+        "fecha": "2026-05-11",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2207",
+        "oficina": "IBL 4020 FRESNO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002207 Trn: 0006626319Xf",
+        "monto": 191.0
+      },
+      {
+        "fecha": "2026-05-12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0007510229Xf",
+        "monto": 5470.4
+      },
+      {
+        "fecha": "2026-05-12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0007510129Xf",
+        "monto": 1968.0
+      },
+      {
+        "fecha": "2026-05-12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0007510209Xf",
+        "monto": 1391.0
+      },
+      {
+        "fecha": "2026-05-12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0007510149Xf",
+        "monto": 1243.0
+      },
+      {
+        "fecha": "2026-05-12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0007510189Xf",
+        "monto": 824.0
+      },
+      {
+        "fecha": "2026-05-12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0007510249Xf",
+        "monto": 532.0
+      },
+      {
+        "fecha": "2026-05-12",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2207",
+        "oficina": "IBL 4020 FRESNO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002207 Trn: 0007510169Xf",
+        "monto": 62.0
+      },
+      {
+        "fecha": "2026-05-13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0008475089Xf",
+        "monto": 2125.8
+      },
+      {
+        "fecha": "2026-05-13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0008475189Xf",
+        "monto": 2032.0
+      },
+      {
+        "fecha": "2026-05-13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1829",
+        "oficina": "IBL 4000 LOS ANGELES",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001829 Trn: 0008475129Xf",
+        "monto": 1489.0
+      },
+      {
+        "fecha": "2026-05-13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0008475149Xf",
+        "monto": 590.0
+      },
+      {
+        "fecha": "2026-05-13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0008475069Xf",
+        "monto": 556.0
+      },
+      {
+        "fecha": "2026-05-13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0008475209Xf",
+        "monto": 534.0
+      },
+      {
+        "fecha": "2026-05-13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0008475169Xf",
+        "monto": 367.0
+      },
+      {
+        "fecha": "2026-05-13",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2207",
+        "oficina": "IBL 4020 FRESNO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002207 Trn: 0008475109Xf",
+        "monto": 72.0
+      },
+      {
+        "fecha": "2026-05-14",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0000452449Xf",
+        "monto": 3198.0
+      },
+      {
+        "fecha": "2026-05-14",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0000452389Xf",
+        "monto": 1022.0
+      },
+      {
+        "fecha": "2026-05-14",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0000452429Xf",
+        "monto": 450.0
+      },
+      {
+        "fecha": "2026-05-14",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0000452409Xf",
+        "monto": 369.0
+      },
+      {
+        "fecha": "2026-05-14",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0000452469Xf",
+        "monto": 142.0
+      },
+      {
+        "fecha": "2026-05-14",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0000452369Xf",
+        "monto": 124.0
+      },
+      {
+        "fecha": "2026-05-15",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0001443579Xf",
+        "monto": 6640.4
+      },
+      {
+        "fecha": "2026-05-15",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0001443639Xf",
+        "monto": 5009.0
+      },
+      {
+        "fecha": "2026-05-15",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1829",
+        "oficina": "IBL 4000 LOS ANGELES",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001829 Trn: 0001443599Xf",
+        "monto": 1764.0
+      },
+      {
+        "fecha": "2026-05-15",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0001443659Xf",
+        "monto": 296.0
+      },
+      {
+        "fecha": "2026-05-15",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0001443559Xf",
+        "monto": 253.0
+      },
+      {
+        "fecha": "2026-05-15",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0001443619Xf",
+        "monto": 249.0
+      },
+      {
+        "fecha": "2026-05-18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0002386879Xf",
+        "monto": 1253.0
+      },
+      {
+        "fecha": "2026-05-18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0002386839Xf",
+        "monto": 1151.0
+      },
+      {
+        "fecha": "2026-05-18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0002386799Xf",
+        "monto": 1120.0
+      },
+      {
+        "fecha": "2026-05-18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0002386859Xf",
+        "monto": 780.0
+      },
+      {
+        "fecha": "2026-05-18",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2207",
+        "oficina": "IBL 4020 FRESNO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002207 Trn: 0002386819Xf",
+        "monto": 186.0
+      },
+      {
+        "fecha": "2026-05-19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0003374669Xf",
+        "monto": 2974.7
+      },
+      {
+        "fecha": "2026-05-19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0607",
+        "oficina": "IBL ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000572570607 Trn: 0003374709Xf",
+        "monto": 1373.0
+      },
+      {
+        "fecha": "2026-05-19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0003374749Xf",
+        "monto": 632.0
+      },
+      {
+        "fecha": "2026-05-19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0003374729Xf",
+        "monto": 276.0
+      },
+      {
+        "fecha": "2026-05-19",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0003374689Xf",
+        "monto": 201.0
+      },
+      {
+        "fecha": "2026-05-19",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "2272",
+        "oficina": "IBL PAYROLL",
+        "descripcion": "Online Transfer From Chk ...2272 Transaction#: 29280522114",
+        "monto": 1000.0
+      },
+      {
+        "fecha": "2026-05-20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0004306589Xf",
+        "monto": 25135.0
+      },
+      {
+        "fecha": "2026-05-20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0004306569Xf",
+        "monto": 662.0
+      },
+      {
+        "fecha": "2026-05-20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0004306529Xf",
+        "monto": 418.0
+      },
+      {
+        "fecha": "2026-05-20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0607",
+        "oficina": "IBL ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000572570607 Trn: 0004306549Xf",
+        "monto": 265.72
+      },
+      {
+        "fecha": "2026-05-20",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0004306609Xf",
+        "monto": 67.0
+      },
+      {
+        "fecha": "2026-05-20",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "3021",
+        "oficina": "COMMERCIAL CHECKING",
+        "descripcion": "Online Transfer From Chk ...3021 Transaction#: 29293411446",
+        "monto": 4000.0
+      },
+      {
+        "fecha": "2026-05-20",
+        "tipo": "traspaso_interno",
+        "cuenta_origen_suffix": "2272",
+        "oficina": "IBL PAYROLL",
+        "descripcion": "Online Transfer From Chk ...2272 Transaction#: 29292704005",
+        "monto": 1000.0
+      },
+      {
+        "fecha": "2026-05-21",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0005196789Xf",
+        "monto": 10094.0
+      },
+      {
+        "fecha": "2026-05-21",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0005196689Xf",
+        "monto": 4452.0
+      },
+      {
+        "fecha": "2026-05-21",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1829",
+        "oficina": "IBL 4000 LOS ANGELES",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001829 Trn: 0005196729Xf",
+        "monto": 662.0
+      },
+      {
+        "fecha": "2026-05-21",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0005196749Xf",
+        "monto": 402.0
+      },
+      {
+        "fecha": "2026-05-21",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0005196669Xf",
+        "monto": 345.0
+      },
+      {
+        "fecha": "2026-05-21",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0005196769Xf",
+        "monto": 243.0
+      },
+      {
+        "fecha": "2026-05-21",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0005196809Xf",
+        "monto": 187.0
+      },
+      {
+        "fecha": "2026-05-21",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2207",
+        "oficina": "IBL 4020 FRESNO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002207 Trn: 0005196709Xf",
+        "monto": 52.0
+      },
+      {
+        "fecha": "2026-05-22",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0006220069Xf",
+        "monto": 10301.2
+      },
+      {
+        "fecha": "2026-05-22",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0006220129Xf",
+        "monto": 2929.0
+      },
+      {
+        "fecha": "2026-05-22",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0006220109Xf",
+        "monto": 684.0
+      },
+      {
+        "fecha": "2026-05-22",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0006220149Xf",
+        "monto": 492.0
+      },
+      {
+        "fecha": "2026-05-22",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0006220089Xf",
+        "monto": 160.0
+      },
+      {
+        "fecha": "2026-05-22",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0006220049Xf",
+        "monto": 114.0
+      },
+      {
+        "fecha": "2026-05-26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0007140049Xf",
+        "monto": 6026.2
+      },
+      {
+        "fecha": "2026-05-26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "7106",
+        "oficina": "IBL 4901 CBX CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000658557106 Trn: 0007140149Xf",
+        "monto": 4756.0
+      },
+      {
+        "fecha": "2026-05-26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0007140189Xf",
+        "monto": 1532.0
+      },
+      {
+        "fecha": "2026-05-26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0007140169Xf",
+        "monto": 1281.0
+      },
+      {
+        "fecha": "2026-05-26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0007140129Xf",
+        "monto": 1210.0
+      },
+      {
+        "fecha": "2026-05-26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1829",
+        "oficina": "IBL 4000 LOS ANGELES",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001829 Trn: 0007140089Xf",
+        "monto": 1207.0
+      },
+      {
+        "fecha": "2026-05-26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0007140109Xf",
+        "monto": 964.0
+      },
+      {
+        "fecha": "2026-05-26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0007140029Xf",
+        "monto": 937.0
+      },
+      {
+        "fecha": "2026-05-26",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2207",
+        "oficina": "IBL 4020 FRESNO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002207 Trn: 0007140069Xf",
+        "monto": 124.0
+      },
+      {
+        "fecha": "2026-05-27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0008082879Xf",
+        "monto": 3710.0
+      },
+      {
+        "fecha": "2026-05-27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0008082779Xf",
+        "monto": 2686.4
+      },
+      {
+        "fecha": "2026-05-27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0008082819Xf",
+        "monto": 693.25
+      },
+      {
+        "fecha": "2026-05-27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0008082859Xf",
+        "monto": 454.0
+      },
+      {
+        "fecha": "2026-05-27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0607",
+        "oficina": "IBL ONLINE",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000572570607 Trn: 0008082839Xf",
+        "monto": 419.85
+      },
+      {
+        "fecha": "2026-05-27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0008082899Xf",
+        "monto": 355.0
+      },
+      {
+        "fecha": "2026-05-27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2207",
+        "oficina": "IBL 4020 FRESNO CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002207 Trn: 0008082799Xf",
+        "monto": 253.0
+      },
+      {
+        "fecha": "2026-05-27",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0008082759Xf",
+        "monto": 62.0
+      },
+      {
+        "fecha": "2026-05-28",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0000070959Xf",
+        "monto": 5533.0
+      },
+      {
+        "fecha": "2026-05-28",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0000071019Xf",
+        "monto": 1039.0
+      },
+      {
+        "fecha": "2026-05-28",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1829",
+        "oficina": "IBL 4000 LOS ANGELES",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001829 Trn: 0000070979Xf",
+        "monto": 558.0
+      },
+      {
+        "fecha": "2026-05-28",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0000071039Xf",
+        "monto": 390.0
+      },
+      {
+        "fecha": "2026-05-28",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0000070939Xf",
+        "monto": 315.0
+      },
+      {
+        "fecha": "2026-05-28",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0000070999Xf",
+        "monto": 268.0
+      },
+      {
+        "fecha": "2026-05-29",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "0157",
+        "oficina": "IBL 4901 CBX",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000689100157 Trn: 0001063989Xf",
+        "monto": 23036.69
+      },
+      {
+        "fecha": "2026-05-29",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1886",
+        "oficina": "IBL AGENCIES NORTH",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001886 Trn: 0001063929Xf",
+        "monto": 2228.0
+      },
+      {
+        "fecha": "2026-05-29",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "9118",
+        "oficina": "IBL 4010 BAKSFLD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000591089118 Trn: 0001063969Xf",
+        "monto": 1104.0
+      },
+      {
+        "fecha": "2026-05-29",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "8019",
+        "oficina": "IBL 4900 SY CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000732758019 Trn: 0001064009Xf",
+        "monto": 547.0
+      },
+      {
+        "fecha": "2026-05-29",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "2165",
+        "oficina": "IBL 4800 OXNARD CC",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570002165 Trn: 0001063949Xf",
+        "monto": 541.0
+      },
+      {
+        "fecha": "2026-05-29",
+        "tipo": "ingreso_oficina",
+        "cuenta_origen_suffix": "1779",
+        "oficina": "IBL 4020 FRESNO",
+        "descripcion": "Cash Concentration Transfer Credit From Account 000000570001779 Trn: 0001063909Xf",
+        "monto": 129.0
+      }
+    ],
+    "retiros": [
+      {
+        "fecha": "2026-05-01",
+        "descripcion": "Orig CO Name:Bristol West Ins Orig ID:9496351315 Desc Date:260501 CO Entry Descr:EFT Pymt Sec:PPD Trace#:021000024285992 Eed:260501 Ind ID:001900G01380064 Ind Name:Gerardo Aguilar Trn: 1214285992Tc",
+        "monto": 242.36,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "2026-05-04",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/072180013316352730 Comercializadora Y Negocios",
+        "monto": 3898.35,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7553",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-04",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/012028001238033177 International Autobuses Mx ",
+        "monto": 6690.42,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7553",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-04",
+        "descripcion": "Cash Concentration Transfer Debit To Account 000000570002066 Trn: 0001814869Xf",
+        "monto": 28.76,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2066",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-05",
+        "descripcion": "Online Transfer To Chk ...2272 Transaction#: 29100336408",
+        "monto": 1000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2272",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-06",
+        "descripcion": "Orig CO Name:Calsavers ACH Orig ID:1625958000 Desc Date:050626 CO Entry Descr:Payroll Sec:CCD Trace#:021000021191063 Eed:260506 Ind ID:4380336 Ind Name:200003 05876081 Trn: 1251191063Tc",
+        "monto": 51.41,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-07",
+        "descripcion": "Online Transfer To Chk ...2272 Transaction#: 29125197113",
+        "monto": 14000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2272",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-08",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/012028001238033177 International Autobuses Mx ",
+        "monto": 3584.19,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7553",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-11",
+        "descripcion": "Online Domestic Wire Transfer Via: Citizens Bank, NA/011500120 A/C: Aba/011401533 Manchester NH US Ben: Trackcam LLC Rehoboth MA 02769 US Ref: Inv 017421 Imad: 0511Mmqfmp2M014348 Trn: 3097076131Es YOU",
+        "monto": 17730.7,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "2026-05-11",
+        "descripcion": "Online Transfer To Chk ...3021 Transaction#: 29179787506",
+        "monto": 15000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "3021",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-11",
+        "descripcion": "Orig CO Name:Pg&E/Ez-Pay Orig ID:0000007041 Desc Date:260511 CO Entry Descr:Utilities Sec:Web Trace#:021000028214095 Eed:260511 Ind ID:5580422 Ind Name:International Bus 800-743-5000 Trn: 1318214095Tc",
+        "monto": 116.25,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "2026-05-12",
+        "descripcion": "Orig CO Name:Ipfs Orig ID:0Ad2424370 Desc Date: CO Entry Descr:Ipfspmtcaosec:CCD Trace#:101000019684650 Eed:260512 Ind ID:D49176 Ind Name:International Bus Line Gdxlk2Vv Trn: 1319684650Tc",
+        "monto": 46698.37,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "2026-05-13",
+        "descripcion": "Orig CO Name:Calsavers ACH Orig ID:1625958000 Desc Date:051326 CO Entry Descr:Payroll Sec:CCD Trace#:021000028298833 Eed:260513 Ind ID:4406706 Ind Name:200003 05876081 Trn: 1328298833Tc",
+        "monto": 73.09,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-13",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/072180013316352730 Comercializadora Y Negocios",
+        "monto": 5108.05,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7553",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-14",
+        "descripcion": "Online Transfer To Chk ...2272 Transaction#: 29213765406",
+        "monto": 13500.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2272",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-15",
+        "descripcion": "Online Domestic Wire Transfer Via: Wells Fargo NA/121000248 A/C: Law Offices of Guadalupe Valencia Sf CA 94104 US Ref: Transfer/Time/14:58 Imad: 0515Mmqfmp2K039195 Trn: 3437476135Es YOUR REF: CML OF 2",
+        "monto": 25000.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "2026-05-18",
+        "descripcion": "Orig CO Name:T-Mobile Orig ID:0000450304 Desc Date:260516 CO Entry Descr:Pcs Svc Sec:Web Trace#:021000027339223 Eed:260518 Ind ID:7338035 Ind Name: International Bus Lin 800-937-8997 Trn: 1387339223Tc",
+        "monto": 1518.11,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Otros"
+      },
+      {
+        "fecha": "2026-05-18",
+        "descripcion": "Online Transfer To Chk ...3021 Transaction#: 29267468743",
+        "monto": 9000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "3021",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-18",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/012028001238033177 International Autobuses Mx ",
+        "monto": 10262.12,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7553",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-19",
+        "descripcion": "Online Transfer To Chk ...3021 Transaction#: 29280450616",
+        "monto": 16836.83,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "3021",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-20",
+        "descripcion": "Orig CO Name:Calsavers ACH Orig ID:1625958000 Desc Date:052026 CO Entry Descr:Payroll Sec:CCD Trace#:021000027383321 Eed:260520 Ind ID:4431118 Ind Name:200003 05876081 Trn: 1397383321Tc",
+        "monto": 96.17,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-20",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/012028001238033177 International Autobuses Mx ",
+        "monto": 17000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7553",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-20",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/072180013316352730 Comercializadora Y Negocios",
+        "monto": 3994.45,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "8131",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-21",
+        "descripcion": "Online International Wire Transfer A/C: Bbva Mexico Sa, Institucion DE Mexico Df Mexico 06600 Mx Ref: Commissions Januany To April 2026 Transfer Trn: 3125176141Es YOUR REF: ICM OF 26/05/21",
+        "monto": 920.15,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wires internacionales Mexico"
+      },
+      {
+        "fecha": "2026-05-21",
+        "descripcion": "Online Transfer To Chk ...2272 Transaction#: 29303031943",
+        "monto": 10000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2272",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-21",
+        "descripcion": "Online Transfer To Chk ...2272 Transaction#: 29305033123",
+        "monto": 1000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2272",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-22",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/012028001238033177 International Autobuses Mx ",
+        "monto": 3564.38,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7553",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-26",
+        "descripcion": "Online Transfer To Chk ...2272 Transaction#: 29351403245",
+        "monto": 2000.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2272",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-26",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/072180013316352730 Comercializadora Y Negocios",
+        "monto": 3076.62,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7553",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-27",
+        "descripcion": "Orig CO Name:Calsavers ACH Orig ID:1625958000 Desc Date:052726 CO Entry Descr:Payroll Sec:CCD Trace#:021000026914467 Eed:260527 Ind ID:4460688 Ind Name:200003 05876081 Trn: 1466914467Tc",
+        "monto": 67.23,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "6081",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-27",
+        "descripcion": "Online International Wire Transfer A/C: Bbva Mexico Sa, Institucion DE Mexico Df Mexico 06600 Mx Ben:/012028001238034147 International Autobuses Mx Sa DE Cv Ref: Transfer Transfer Trn: 3657076147Es YO",
+        "monto": 3100.0,
+        "es_traspaso_interno": false,
+        "cuenta_destino_suffix": null,
+        "categoria": "Wires internacionales Mexico"
+      },
+      {
+        "fecha": "2026-05-28",
+        "descripcion": "Online Transfer To Chk ...2272 Transaction#: 29386733678",
+        "monto": 11500.0,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "2272",
+        "categoria": "Traspaso interno"
+      },
+      {
+        "fecha": "2026-05-29",
+        "descripcion": "Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark DE 197132107 US Org: 00000000561267553 International Bus Lines Inc Ben:/012028001238033177 International Autobuses Mx ",
+        "monto": 10325.3,
+        "es_traspaso_interno": true,
+        "cuenta_destino_suffix": "7553",
+        "categoria": "Traspaso interno"
+      }
+    ],
+    "control": {
+      "suma_depositos_parseados": 306760.58,
+      "suma_retiros_parseados": 256983.31,
+      "reconcilia_depositos": true,
+      "reconcilia_retiros": true,
+      "saldo_calculado": 51896.59,
+      "reconcilia_saldo": true
+    }
+  }
+]
